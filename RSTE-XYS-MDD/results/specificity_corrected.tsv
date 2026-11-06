@@ -1,0 +1,29 @@
+arm	formula	n_herb	obs_n	null_n	z_count	z_idf
+naive (all GC genes, no conditioning)	XYS	8	7	4.19	2.01	2.02
+naive (all GC genes, no conditioning)	CSS	7	5	4.06	0.71	0.57
+naive (all GC genes, no conditioning)	YJF	4	3	3.48	-0.44	-0.53
+naive (all GC genes, no conditioning)	SZRT	5	4	3.73	0.22	0.16
+naive (all GC genes, no conditioning)	TWBXD	10	4	4.47	-0.3	-0.37
+naive (all GC genes, no conditioning)	WD	5	4	3.71	0.26	0.2
+naive (all GC genes, no conditioning)	JT	2	3	2.75	0.23	-0.25
+corrected A (ubiquitous removed)	XYS	8	4	1.2	2.06	2.06
+corrected A (ubiquitous removed)	CSS	7	2	1.17	0.61	0.47
+corrected A (ubiquitous removed)	YJF	4	0	0.62	-0.59	-0.55
+corrected A (ubiquitous removed)	SZRT	5	1	0.81	0.16	0.14
+corrected A (ubiquitous removed)	TWBXD	10	1	1.44	-0.3	-0.37
+corrected A (ubiquitous removed)	WD	5	1	0.76	0.21	0.2
+corrected A (ubiquitous removed)	JT	2	0	0.32	-0.4	-0.37
+corrected B (A + disease-conditioned)	XYS	8	2	0.66	1.43	1.65
+corrected B (A + disease-conditioned)	CSS	7	1	0.59	0.44	0.34
+corrected B (A + disease-conditioned)	YJF	4	0	0.35	-0.47	-0.44
+corrected B (A + disease-conditioned)	SZRT	5	1	0.45	0.68	0.55
+corrected B (A + disease-conditioned)	TWBXD	10	0	0.83	-0.79	-0.73
+corrected B (A + disease-conditioned)	WD	5	1	0.45	0.68	0.56
+corrected B (A + disease-conditioned)	JT	2	0	0.15	-0.33	-0.31
+control axis (HT, corrected A)	XYS	8	4	2.66	0.96	0.98
+control axis (HT, corrected A)	CSS	7	2	2.42	-0.31	-0.5
+control axis (HT, corrected A)	YJF	4	1	1.67	-0.54	-0.44
+control axis (HT, corrected A)	SZRT	5	1	2	-0.79	-0.64
+control axis (HT, corrected A)	TWBXD	10	4	3.05	0.69	0.46
+control axis (HT, corrected A)	WD	5	3	1.9	0.88	0.84
+control axis (HT, corrected A)	JT	2	3	0.96	1.97	1.74

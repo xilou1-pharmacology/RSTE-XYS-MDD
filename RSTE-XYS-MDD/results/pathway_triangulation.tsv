@@ -1,0 +1,10 @@
+pathway	n_target	mono_hi	mdd_deg	median_ratio
+Citrate cycle (TCA cycle)	0	0	0	NA
+Pyruvate metabolism	3	0	0	0.61406526516794
+Steroid hormone biosynthesis	10	1	1	0.297530842003918
+PPAR signaling pathway	8	1	1	1.57114237423753
+Cytokine-cytokine receptor interaction	14	3	0	1.83508554196324
+Asthma	4	1	0	2.40432857276907
+Lipid and atherosclerosis	43	10	2	1.65848786698052
+Phagosome	5	4	2	94.5449412285288
+Oxidative phosphorylation	1	1	0	2.00827713009537

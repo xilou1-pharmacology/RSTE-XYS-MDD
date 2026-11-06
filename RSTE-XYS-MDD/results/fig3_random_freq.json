@@ -1,0 +1,122 @@
+[
+ {
+  "pathway": "Lipid and atherosclerosis",
+  "herbal": 133,
+  "genome": 5
+ },
+ {
+  "pathway": "Hepatitis B",
+  "herbal": 79,
+  "genome": 7
+ },
+ {
+  "pathway": "Apoptosis",
+  "herbal": 71,
+  "genome": 7
+ },
+ {
+  "pathway": "Chemical carcinogenesis",
+  "herbal": 60,
+  "genome": 7
+ },
+ {
+  "pathway": "Kaposi sarcoma-associated herpesvirus infection",
+  "herbal": 42,
+  "genome": 5
+ },
+ {
+  "pathway": "MicroRNAs in cancer",
+  "herbal": 33,
+  "genome": 7
+ },
+ {
+  "pathway": "Small cell lung cancer",
+  "herbal": 24,
+  "genome": 3
+ },
+ {
+  "pathway": "Insulin resistance",
+  "herbal": 23,
+  "genome": 3
+ },
+ {
+  "pathway": "p53 signaling pathway",
+  "herbal": 14,
+  "genome": 11
+ },
+ {
+  "pathway": "Hepatitis C",
+  "herbal": 19,
+  "genome": 4
+ },
+ {
+  "pathway": "NF-kappa B signaling pathway",
+  "herbal": 8,
+  "genome": 9
+ },
+ {
+  "pathway": "Pyruvate metabolism",
+  "herbal": 4,
+  "genome": 10
+ },
+ {
+  "pathway": "Platelet activation",
+  "herbal": 6,
+  "genome": 7
+ },
+ {
+  "pathway": "Thyroid hormone synthesis",
+  "herbal": 0,
+  "genome": 10
+ },
+ {
+  "pathway": "Ovarian steroidogenesis",
+  "herbal": 1,
+  "genome": 9
+ },
+ {
+  "pathway": "Inflammatory mediator regulation of TRP channels",
+  "herbal": 3,
+  "genome": 5
+ },
+ {
+  "pathway": "Vasopressin-regulated water reabsorption",
+  "herbal": 0,
+  "genome": 8
+ },
+ {
+  "pathway": "Pantothenate and CoA biosynthesis",
+  "herbal": 0,
+  "genome": 7
+ },
+ {
+  "pathway": "Folate biosynthesis",
+  "herbal": 0,
+  "genome": 7
+ },
+ {
+  "pathway": "Glutamatergic synapse",
+  "herbal": 0,
+  "genome": 7
+ },
+ {
+  "pathway": "Mismatch repair",
+  "herbal": 0,
+  "genome": 6
+ },
+ {
+  "pathway": "Type I diabetes mellitus",
+  "herbal": 0,
+  "genome": 5
+ },
+ {
+  "pathway": "Morphine addiction",
+  "herbal": 0,
+  "genome": 5
+ },
+ {
+  "pathway": "Toxoplasmosis",
+  "herbal": 2,
+  "genome": 2
+ }
+]

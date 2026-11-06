@@ -1,0 +1,2540 @@
+MOL_ID	molecule_name	中药名	GENE
+MOL001918	paeoniflorgenone	白芍	GABRA1
+MOL001919	(3S,5R,8R,9R,10S,14S)-3,17-dihydroxy-4,4,8,10,14-pentamethyl-2,3,5,6,7,9-hexahydro-1H-cyclopenta[a]phenanthrene-15,16-dione	白芍	PGR
+MOL001919	(3S,5R,8R,9R,10S,14S)-3,17-dihydroxy-4,4,8,10,14-pentamethyl-2,3,5,6,7,9-hexahydro-1H-cyclopenta[a]phenanthrene-15,16-dione	白芍	NR3C2
+MOL001924	paeoniflorin	白芍	TNF
+MOL001924	paeoniflorin	白芍	IL36A
+MOL001924	paeoniflorin	白芍	CD14
+MOL001924	paeoniflorin	白芍	LBP
+MOL000211	Mairin	白芍	PGR
+MOL000358	beta-sitosterol	白芍	PGR
+MOL000358	beta-sitosterol	白芍	PNRC2
+MOL000358	beta-sitosterol	白芍	PTGS1
+MOL000358	beta-sitosterol	白芍	PTGS2
+MOL000358	beta-sitosterol	白芍	HSP90AB1
+MOL000358	beta-sitosterol	白芍	PIK3CG
+MOL000358	beta-sitosterol	白芍	KCNC2
+MOL000358	beta-sitosterol	白芍	PRKACA
+MOL000358	beta-sitosterol	白芍	DRD1
+MOL000358	beta-sitosterol	白芍	CHRM3
+MOL000358	beta-sitosterol	白芍	CHRM1
+MOL000358	beta-sitosterol	白芍	SCNN1A
+MOL000358	beta-sitosterol	白芍	GABRA2
+MOL000358	beta-sitosterol	白芍	CHRM4
+MOL000358	beta-sitosterol	白芍	PDE3A
+MOL000358	beta-sitosterol	白芍	HTR2A
+MOL000358	beta-sitosterol	白芍	GABRA5
+MOL000358	beta-sitosterol	白芍	ADRA1A
+MOL000358	beta-sitosterol	白芍	GABRA3
+MOL000358	beta-sitosterol	白芍	CHRM2
+MOL000358	beta-sitosterol	白芍	ADRA1B
+MOL000358	beta-sitosterol	白芍	ADRB2
+MOL000358	beta-sitosterol	白芍	CHRNA2
+MOL000358	beta-sitosterol	白芍	SLC6A4
+MOL000358	beta-sitosterol	白芍	OPRM1
+MOL000358	beta-sitosterol	白芍	GABRA1
+MOL000358	beta-sitosterol	白芍	CHRNA7
+MOL000358	beta-sitosterol	白芍	NOS3
+MOL000358	beta-sitosterol	白芍	BCL2
+MOL000358	beta-sitosterol	白芍	BAX
+MOL000358	beta-sitosterol	白芍	CASP9
+MOL000358	beta-sitosterol	白芍	JUN
+MOL000358	beta-sitosterol	白芍	CASP3
+MOL000358	beta-sitosterol	白芍	CASP8
+MOL000358	beta-sitosterol	白芍	C3
+MOL000358	beta-sitosterol	白芍	TGFB1
+MOL000358	beta-sitosterol	白芍	PON2
+MOL000358	beta-sitosterol	白芍	MAP4
+MOL000359	sitosterol	白芍	PGR
+MOL000359	sitosterol	白芍	PNRC2
+MOL000359	sitosterol	白芍	NR3C2
+MOL000422	kaempferol	白芍	NOS2
+MOL000422	kaempferol	白芍	PTGS1
+MOL000422	kaempferol	白芍	AR
+MOL000422	kaempferol	白芍	PPARG
+MOL000422	kaempferol	白芍	PTGS2
+MOL000422	kaempferol	白芍	HSP90AB1
+MOL000422	kaempferol	白芍	PIK3CG
+MOL000422	kaempferol	白芍	PRKACA
+MOL000422	kaempferol	白芍	PNRC2
+MOL000422	kaempferol	白芍	DPP4
+MOL000422	kaempferol	白芍	PRSS1
+MOL000422	kaempferol	白芍	PGR
+MOL000422	kaempferol	白芍	F2
+MOL000422	kaempferol	白芍	CHRM1
+MOL000422	kaempferol	白芍	NOS3
+MOL000422	kaempferol	白芍	GABRA2
+MOL000422	kaempferol	白芍	ACHE
+MOL000422	kaempferol	白芍	SLC6A2
+MOL000422	kaempferol	白芍	CHRM2
+MOL000422	kaempferol	白芍	ADRA1B
+MOL000422	kaempferol	白芍	GABRA1
+MOL000422	kaempferol	白芍	TOP2A
+MOL000422	kaempferol	白芍	F7
+MOL000422	kaempferol	白芍	CALML5
+MOL000422	kaempferol	白芍	RELA
+MOL000422	kaempferol	白芍	IKBKB
+MOL000422	kaempferol	白芍	AKT1
+MOL000422	kaempferol	白芍	BCL2
+MOL000422	kaempferol	白芍	BAX
+MOL000422	kaempferol	白芍	TNF
+MOL000422	kaempferol	白芍	JUN
+MOL000422	kaempferol	白芍	AHSA1
+MOL000422	kaempferol	白芍	CASP3
+MOL000422	kaempferol	白芍	MAP3K7
+MOL000422	kaempferol	白芍	XDH
+MOL000422	kaempferol	白芍	MMP1
+MOL000422	kaempferol	白芍	STAT4
+MOL000422	kaempferol	白芍	CDK1
+MOL000422	kaempferol	白芍	HMOX1
+MOL000422	kaempferol	白芍	CYP3A4
+MOL000422	kaempferol	白芍	CYP1A2
+MOL000422	kaempferol	白芍	CYP1A1
+MOL000422	kaempferol	白芍	ICAM2
+MOL000422	kaempferol	白芍	SELE
+MOL000422	kaempferol	白芍	VCAM1
+MOL000422	kaempferol	白芍	NR1I2
+MOL000422	kaempferol	白芍	CYP1B1
+MOL000422	kaempferol	白芍	ALOX5
+MOL000422	kaempferol	白芍	HAS2
+MOL000422	kaempferol	白芍	GSTP1
+MOL000422	kaempferol	白芍	AHR
+MOL000422	kaempferol	白芍	PSMD11
+MOL000422	kaempferol	白芍	SLC2A2
+MOL000422	kaempferol	白芍	INSR
+MOL000422	kaempferol	白芍	DIO1
+MOL000422	kaempferol	白芍	PPP3CA
+MOL000422	kaempferol	白芍	PRXC1A
+MOL000422	kaempferol	白芍	GSTM2
+MOL000422	kaempferol	白芍	AKR1C3
+MOL000422	kaempferol	白芍	SLPI
+MOL000492	(+)-catechin	白芍	PTGS1
+MOL000492	(+)-catechin	白芍	NCOA7
+MOL000492	(+)-catechin	白芍	PTGS2
+MOL000492	(+)-catechin	白芍	HSP90AB1
+MOL000492	(+)-catechin	白芍	LACTB
+MOL000492	(+)-catechin	白芍	PRKACA
+MOL000492	(+)-catechin	白芍	PNRC2
+MOL000492	(+)-catechin	白芍	CALML5
+MOL000492	(+)-catechin	白芍	RXRA
+MOL000492	(+)-catechin	白芍	CAT
+MOL000492	(+)-catechin	白芍	HAS2
+MOL000022	14-acetyl-12-senecioyl-2E,8Z,10E-atractylentriol	白术	PTGS2
+MOL000033	(3S,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-[(2R,5S)-5-propan-2-yloctan-2-yl]-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol	白术	PGR
+MOL000049	3β-acetoxyatractylone	白术	CHRM3
+MOL000049	3β-acetoxyatractylone	白术	F2
+MOL000049	3β-acetoxyatractylone	白术	CHRM1
+MOL000049	3β-acetoxyatractylone	白术	AR
+MOL000049	3β-acetoxyatractylone	白术	SCNN1A
+MOL000049	3β-acetoxyatractylone	白术	PTGS2
+MOL000049	3β-acetoxyatractylone	白术	NOS3
+MOL000049	3β-acetoxyatractylone	白术	RXRA
+MOL000049	3β-acetoxyatractylone	白术	ACHE
+MOL000049	3β-acetoxyatractylone	白术	ADRA1A
+MOL000049	3β-acetoxyatractylone	白术	CHRM2
+MOL000049	3β-acetoxyatractylone	白术	ADRB2
+MOL000049	3β-acetoxyatractylone	白术	OPRM1
+MOL000049	3β-acetoxyatractylone	白术	GABRA1
+MOL000049	3β-acetoxyatractylone	白术	DPP4
+MOL000049	3β-acetoxyatractylone	白术	CHRNA7
+MOL000072	8β-ethoxy atractylenolide Ⅲ	白术	PTGS2
+MOL000072	8β-ethoxy atractylenolide Ⅲ	白术	GABRA1
+MOL000072	8β-ethoxy atractylenolide Ⅲ	白术	CHRNA7
+MOL000072	8β-ethoxy atractylenolide Ⅲ	白术	PNRC2
+MOL000072	8β-ethoxy atractylenolide Ⅲ	白术	NCOA7
+MOL001689	acacetin	薄荷	NOS2
+MOL001689	acacetin	薄荷	PTGS1
+MOL001689	acacetin	薄荷	AR
+MOL001689	acacetin	薄荷	PTGS2
+MOL001689	acacetin	薄荷	DPP4
+MOL001689	acacetin	薄荷	HSP90AB1
+MOL001689	acacetin	薄荷	CDK1
+MOL001689	acacetin	薄荷	PRKACA
+MOL001689	acacetin	薄荷	PRSS1
+MOL001689	acacetin	薄荷	PNRC2
+MOL001689	acacetin	薄荷	NCOA7
+MOL001689	acacetin	薄荷	CALML5
+MOL001689	acacetin	薄荷	PIK3CG
+MOL001689	acacetin	薄荷	CHEK1
+MOL001689	acacetin	薄荷	ADRB2
+MOL001689	acacetin	薄荷	PDE3A
+MOL001689	acacetin	薄荷	RELA
+MOL001689	acacetin	薄荷	BCL2
+MOL001689	acacetin	薄荷	CDKN1C
+MOL001689	acacetin	薄荷	BAX
+MOL001689	acacetin	薄荷	CASP3
+MOL001689	acacetin	薄荷	TP53
+MOL001689	acacetin	薄荷	CASP8
+MOL001689	acacetin	薄荷	ELOVL6
+MOL001689	acacetin	薄荷	TNFSF15
+MOL001689	acacetin	薄荷	CYP19A1
+MOL001790	Linarin	薄荷	TOP2A
+MOL002881	Diosmetin	薄荷	NOS2
+MOL002881	Diosmetin	薄荷	PTGS1
+MOL002881	Diosmetin	薄荷	PTGS2
+MOL002881	Diosmetin	薄荷	DPP4
+MOL002881	Diosmetin	薄荷	HSP90AB1
+MOL002881	Diosmetin	薄荷	PRKACA
+MOL002881	Diosmetin	薄荷	PRSS1
+MOL002881	Diosmetin	薄荷	PNRC2
+MOL002881	Diosmetin	薄荷	NCOA7
+MOL002881	Diosmetin	薄荷	CALML5
+MOL000359	sitosterol	薄荷	PGR
+MOL000359	sitosterol	薄荷	PNRC2
+MOL000359	sitosterol	薄荷	NR3C2
+MOL004328	naringenin	薄荷	PTGS1
+MOL004328	naringenin	薄荷	NCOA7
+MOL004328	naringenin	薄荷	PTGS2
+MOL004328	naringenin	薄荷	HSP90AB1
+MOL004328	naringenin	薄荷	LACTB
+MOL004328	naringenin	薄荷	PRKACA
+MOL004328	naringenin	薄荷	PIK3CG
+MOL004328	naringenin	薄荷	RELA
+MOL004328	naringenin	薄荷	AKT1
+MOL004328	naringenin	薄荷	BCL2
+MOL004328	naringenin	薄荷	MAP3K7
+MOL004328	naringenin	薄荷	CASP3
+MOL004328	naringenin	薄荷	ELOVL6
+MOL004328	naringenin	薄荷	LDLR
+MOL004328	naringenin	薄荷	BAD
+MOL004328	naringenin	薄荷	CAT
+MOL004328	naringenin	薄荷	PPARG
+MOL004328	naringenin	薄荷	MTTP
+MOL004328	naringenin	薄荷	APOB
+MOL004328	naringenin	薄荷	PLB1
+MOL004328	naringenin	薄荷	HMGCR
+MOL004328	naringenin	薄荷	CYP19A1
+MOL004328	naringenin	薄荷	GSTP1
+MOL004328	naringenin	薄荷	UGT1A1
+MOL004328	naringenin	薄荷	PPARA
+MOL004328	naringenin	薄荷	SREBF2
+MOL004328	naringenin	薄荷	GSR
+MOL004328	naringenin	薄荷	ABCC11
+MOL004328	naringenin	薄荷	ADIPOQ
+MOL004328	naringenin	薄荷	SOAT2
+MOL004328	naringenin	薄荷	AKR1C1
+MOL004328	naringenin	薄荷	GOT1
+MOL004328	naringenin	薄荷	ABAT
+MOL004328	naringenin	薄荷	CES3
+MOL000471	aloe-emodin	薄荷	PTGS1
+MOL000471	aloe-emodin	薄荷	PTGS2
+MOL000471	aloe-emodin	薄荷	HSP90AB1
+MOL000471	aloe-emodin	薄荷	PIK3CG
+MOL000471	aloe-emodin	薄荷	PRKACA
+MOL000471	aloe-emodin	薄荷	PNRC2
+MOL000471	aloe-emodin	薄荷	PKIA
+MOL000471	aloe-emodin	薄荷	AKR1B1
+MOL000471	aloe-emodin	薄荷	IGHG1
+MOL000471	aloe-emodin	薄荷	CDKN1C
+MOL000471	aloe-emodin	薄荷	EIF2A
+MOL000471	aloe-emodin	薄荷	BAX
+MOL000471	aloe-emodin	薄荷	TNF
+MOL000471	aloe-emodin	薄荷	CASP3
+MOL000471	aloe-emodin	薄荷	TP53
+MOL000471	aloe-emodin	薄荷	ELOVL6
+MOL000471	aloe-emodin	薄荷	C3
+MOL000471	aloe-emodin	薄荷	PRKCE
+MOL000471	aloe-emodin	薄荷	CDK1
+MOL000471	aloe-emodin	薄荷	PCNA
+MOL000471	aloe-emodin	薄荷	MYC
+MOL000471	aloe-emodin	薄荷	IL1B
+MOL000471	aloe-emodin	薄荷	CAMK2D
+MOL000471	aloe-emodin	薄荷	CCNB1
+MOL005190	eriodictyol	薄荷	PTGS1
+MOL005190	eriodictyol	薄荷	PTGS2
+MOL005190	eriodictyol	薄荷	HSP90AB1
+MOL005190	eriodictyol	薄荷	PRKACA
+MOL005190	eriodictyol	薄荷	PNRC2
+MOL005190	eriodictyol	薄荷	PIK3CG
+MOL005190	eriodictyol	薄荷	HMOX1
+MOL005190	eriodictyol	薄荷	NFE2L2
+MOL005573	Genkwanin	薄荷	NOS2
+MOL005573	Genkwanin	薄荷	PTGS1
+MOL005573	Genkwanin	薄荷	AR
+MOL005573	Genkwanin	薄荷	PTGS2
+MOL005573	Genkwanin	薄荷	RXRA
+MOL005573	Genkwanin	薄荷	ESR2
+MOL005573	Genkwanin	薄荷	DPP4
+MOL005573	Genkwanin	薄荷	HSP90AB1
+MOL005573	Genkwanin	薄荷	PRKACA
+MOL005573	Genkwanin	薄荷	PRSS1
+MOL005573	Genkwanin	薄荷	PNRC2
+MOL005573	Genkwanin	薄荷	NCOA7
+MOL005573	Genkwanin	薄荷	CALML5
+MOL005573	Genkwanin	薄荷	CHEK1
+MOL000006	luteolin	薄荷	PTGS1
+MOL000006	luteolin	薄荷	AR
+MOL000006	luteolin	薄荷	PTGS2
+MOL000006	luteolin	薄荷	HSP90AB1
+MOL000006	luteolin	薄荷	PRSS1
+MOL000006	luteolin	薄荷	PNRC2
+MOL000006	luteolin	薄荷	PRKACA
+MOL000006	luteolin	薄荷	DPP4
+MOL000006	luteolin	薄荷	PIK3CG
+MOL000006	luteolin	薄荷	RELA
+MOL000006	luteolin	薄荷	EGF
+MOL000006	luteolin	薄荷	AKT1
+MOL000006	luteolin	薄荷	VEGFC
+MOL000006	luteolin	薄荷	CCND3
+MOL000006	luteolin	薄荷	BAK1
+MOL000006	luteolin	薄荷	CDKN1C
+MOL000006	luteolin	薄荷	CASP9
+MOL000006	luteolin	薄荷	MMP2
+MOL000006	luteolin	薄荷	MMP9
+MOL000006	luteolin	薄荷	MAP3K7
+MOL000006	luteolin	薄荷	IL10
+MOL000006	luteolin	薄荷	RBL1
+MOL000006	luteolin	薄荷	CDK2
+MOL000006	luteolin	薄荷	TNF
+MOL000006	luteolin	薄荷	JUN
+MOL000006	luteolin	薄荷	IL36A
+MOL000006	luteolin	薄荷	CASP3
+MOL000006	luteolin	薄荷	TP53
+MOL000006	luteolin	薄荷	NFKBIE
+MOL000006	luteolin	薄荷	XDH
+MOL000006	luteolin	薄荷	TOP1
+MOL000006	luteolin	薄荷	MDM2
+MOL000006	luteolin	薄荷	APP
+MOL000006	luteolin	薄荷	MMP1
+MOL000006	luteolin	薄荷	PCNA
+MOL000006	luteolin	薄荷	ERBB2
+MOL000006	luteolin	薄荷	PPARG
+MOL000006	luteolin	薄荷	HMOX1
+MOL000006	luteolin	薄荷	CASP7
+MOL000006	luteolin	薄荷	ICAM2
+MOL000006	luteolin	薄荷	MCL1
+MOL000006	luteolin	薄荷	NAIP
+MOL000006	luteolin	薄荷	IL2
+MOL000006	luteolin	薄荷	CCNB1
+MOL000006	luteolin	薄荷	TYR
+MOL000006	luteolin	薄荷	IFNG
+MOL000006	luteolin	薄荷	IL4
+MOL000006	luteolin	薄荷	TOP2A
+MOL000006	luteolin	薄荷	GSTP1
+MOL000006	luteolin	薄荷	SLC2A2
+MOL000006	luteolin	薄荷	INSR
+MOL000006	luteolin	薄荷	CD40LG
+MOL000006	luteolin	薄荷	PTGES2
+MOL000006	luteolin	薄荷	NUF2
+MOL000006	luteolin	薄荷	ADCY2
+MOL000006	luteolin	薄荷	HGF
+MOL001645	Linoleyl acetate	柴胡	PTGS1
+MOL001645	Linoleyl acetate	柴胡	PTGS2
+MOL001645	Linoleyl acetate	柴胡	PNRC2
+MOL001645	Linoleyl acetate	柴胡	RXRA
+MOL002776	Baicalin	柴胡	F10
+MOL002776	Baicalin	柴胡	PTPN22
+MOL000449	Stigmasterol	柴胡	PGR
+MOL000449	Stigmasterol	柴胡	NR3C2
+MOL000449	Stigmasterol	柴胡	PNRC2
+MOL000449	Stigmasterol	柴胡	ADH1C
+MOL000449	Stigmasterol	柴胡	IGHG1
+MOL000449	Stigmasterol	柴胡	RXRA
+MOL000449	Stigmasterol	柴胡	NCOA7
+MOL000449	Stigmasterol	柴胡	PTGS1
+MOL000449	Stigmasterol	柴胡	PTGS2
+MOL000449	Stigmasterol	柴胡	ADRA2A
+MOL000449	Stigmasterol	柴胡	SLC6A2
+MOL000449	Stigmasterol	柴胡	SLC6A3
+MOL000449	Stigmasterol	柴胡	ADRB2
+MOL000449	Stigmasterol	柴胡	AKR1B1
+MOL000449	Stigmasterol	柴胡	PLAU
+MOL000449	Stigmasterol	柴胡	LTA4H
+MOL000449	Stigmasterol	柴胡	PRKACA
+MOL000449	Stigmasterol	柴胡	CTRB1
+MOL000449	Stigmasterol	柴胡	CHRM3
+MOL000449	Stigmasterol	柴胡	CHRM1
+MOL000449	Stigmasterol	柴胡	ADRB1
+MOL000449	Stigmasterol	柴胡	SCNN1A
+MOL000449	Stigmasterol	柴胡	HTR2A
+MOL000449	Stigmasterol	柴胡	ADRA1A
+MOL000449	Stigmasterol	柴胡	GABRA3
+MOL000449	Stigmasterol	柴胡	CHRM2
+MOL000449	Stigmasterol	柴胡	ADRA1B
+MOL000449	Stigmasterol	柴胡	GABRA1
+MOL000449	Stigmasterol	柴胡	CHRNA7
+MOL000354	isorhamnetin	柴胡	NOS2
+MOL000354	isorhamnetin	柴胡	PTGS1
+MOL000354	isorhamnetin	柴胡	NCOA7
+MOL000354	isorhamnetin	柴胡	AR
+MOL000354	isorhamnetin	柴胡	PPARG
+MOL000354	isorhamnetin	柴胡	PTGS2
+MOL000354	isorhamnetin	柴胡	PTPN22
+MOL000354	isorhamnetin	柴胡	ESR2
+MOL000354	isorhamnetin	柴胡	DPP4
+MOL000354	isorhamnetin	柴胡	MAPK14
+MOL000354	isorhamnetin	柴胡	GSK3B
+MOL000354	isorhamnetin	柴胡	HSP90AB1
+MOL000354	isorhamnetin	柴胡	CDK1
+MOL000354	isorhamnetin	柴胡	PIK3CG
+MOL000354	isorhamnetin	柴胡	PRKACA
+MOL000354	isorhamnetin	柴胡	PRSS1
+MOL000354	isorhamnetin	柴胡	PIM1
+MOL000354	isorhamnetin	柴胡	CCNA2
+MOL000354	isorhamnetin	柴胡	PNRC2
+MOL000354	isorhamnetin	柴胡	CALML5
+MOL000354	isorhamnetin	柴胡	PYGM
+MOL000354	isorhamnetin	柴胡	PPARD
+MOL000354	isorhamnetin	柴胡	CHEK1
+MOL000354	isorhamnetin	柴胡	AKR1B1
+MOL000354	isorhamnetin	柴胡	F7
+MOL000354	isorhamnetin	柴胡	F2
+MOL000354	isorhamnetin	柴胡	NOS3
+MOL000354	isorhamnetin	柴胡	ACHE
+MOL000354	isorhamnetin	柴胡	GABRA1
+MOL000354	isorhamnetin	柴胡	GRIN2A
+MOL000354	isorhamnetin	柴胡	RELA
+MOL000354	isorhamnetin	柴胡	XDH
+MOL000354	isorhamnetin	柴胡	NCF2
+MOL000354	isorhamnetin	柴胡	OLR1
+MOL000422	kaempferol	柴胡	NOS2
+MOL000422	kaempferol	柴胡	PTGS1
+MOL000422	kaempferol	柴胡	AR
+MOL000422	kaempferol	柴胡	PPARG
+MOL000422	kaempferol	柴胡	PTGS2
+MOL000422	kaempferol	柴胡	HSP90AB1
+MOL000422	kaempferol	柴胡	PIK3CG
+MOL000422	kaempferol	柴胡	PRKACA
+MOL000422	kaempferol	柴胡	PNRC2
+MOL000422	kaempferol	柴胡	DPP4
+MOL000422	kaempferol	柴胡	PRSS1
+MOL000422	kaempferol	柴胡	PGR
+MOL000422	kaempferol	柴胡	F2
+MOL000422	kaempferol	柴胡	CHRM1
+MOL000422	kaempferol	柴胡	NOS3
+MOL000422	kaempferol	柴胡	GABRA2
+MOL000422	kaempferol	柴胡	ACHE
+MOL000422	kaempferol	柴胡	SLC6A2
+MOL000422	kaempferol	柴胡	CHRM2
+MOL000422	kaempferol	柴胡	ADRA1B
+MOL000422	kaempferol	柴胡	GABRA1
+MOL000422	kaempferol	柴胡	TOP2A
+MOL000422	kaempferol	柴胡	F7
+MOL000422	kaempferol	柴胡	CALML5
+MOL000422	kaempferol	柴胡	RELA
+MOL000422	kaempferol	柴胡	IKBKB
+MOL000422	kaempferol	柴胡	AKT1
+MOL000422	kaempferol	柴胡	BCL2
+MOL000422	kaempferol	柴胡	BAX
+MOL000422	kaempferol	柴胡	TNF
+MOL000422	kaempferol	柴胡	JUN
+MOL000422	kaempferol	柴胡	AHSA1
+MOL000422	kaempferol	柴胡	CASP3
+MOL000422	kaempferol	柴胡	MAP3K7
+MOL000422	kaempferol	柴胡	XDH
+MOL000422	kaempferol	柴胡	MMP1
+MOL000422	kaempferol	柴胡	STAT4
+MOL000422	kaempferol	柴胡	CDK1
+MOL000422	kaempferol	柴胡	HMOX1
+MOL000422	kaempferol	柴胡	CYP3A4
+MOL000422	kaempferol	柴胡	CYP1A2
+MOL000422	kaempferol	柴胡	CYP1A1
+MOL000422	kaempferol	柴胡	ICAM2
+MOL000422	kaempferol	柴胡	SELE
+MOL000422	kaempferol	柴胡	VCAM1
+MOL000422	kaempferol	柴胡	NR1I2
+MOL000422	kaempferol	柴胡	CYP1B1
+MOL000422	kaempferol	柴胡	ALOX5
+MOL000422	kaempferol	柴胡	HAS2
+MOL000422	kaempferol	柴胡	GSTP1
+MOL000422	kaempferol	柴胡	AHR
+MOL000422	kaempferol	柴胡	PSMD11
+MOL000422	kaempferol	柴胡	SLC2A2
+MOL000422	kaempferol	柴胡	INSR
+MOL000422	kaempferol	柴胡	DIO1
+MOL000422	kaempferol	柴胡	PPP3CA
+MOL000422	kaempferol	柴胡	PRXC1A
+MOL000422	kaempferol	柴胡	GSTM2
+MOL000422	kaempferol	柴胡	AKR1C3
+MOL000422	kaempferol	柴胡	SLPI
+MOL004598	3,5,6,7-tetramethoxy-2-(3,4,5-trimethoxyphenyl)chromone	柴胡	F2
+MOL004598	3,5,6,7-tetramethoxy-2-(3,4,5-trimethoxyphenyl)chromone	柴胡	NCOA7
+MOL004598	3,5,6,7-tetramethoxy-2-(3,4,5-trimethoxyphenyl)chromone	柴胡	AR
+MOL004598	3,5,6,7-tetramethoxy-2-(3,4,5-trimethoxyphenyl)chromone	柴胡	F10
+MOL004598	3,5,6,7-tetramethoxy-2-(3,4,5-trimethoxyphenyl)chromone	柴胡	PTGS2
+MOL004598	3,5,6,7-tetramethoxy-2-(3,4,5-trimethoxyphenyl)chromone	柴胡	F7
+MOL004598	3,5,6,7-tetramethoxy-2-(3,4,5-trimethoxyphenyl)chromone	柴胡	ACHE
+MOL004598	3,5,6,7-tetramethoxy-2-(3,4,5-trimethoxyphenyl)chromone	柴胡	TOP2A
+MOL004598	3,5,6,7-tetramethoxy-2-(3,4,5-trimethoxyphenyl)chromone	柴胡	ESR2
+MOL004598	3,5,6,7-tetramethoxy-2-(3,4,5-trimethoxyphenyl)chromone	柴胡	PRSS1
+MOL004598	3,5,6,7-tetramethoxy-2-(3,4,5-trimethoxyphenyl)chromone	柴胡	PNRC2
+MOL004598	3,5,6,7-tetramethoxy-2-(3,4,5-trimethoxyphenyl)chromone	柴胡	CALML5
+MOL004609	Areapillin	柴胡	NOS2
+MOL004609	Areapillin	柴胡	F2
+MOL004609	Areapillin	柴胡	AR
+MOL004609	Areapillin	柴胡	SCNN1A
+MOL004609	Areapillin	柴胡	F10
+MOL004609	Areapillin	柴胡	PTGS2
+MOL004609	Areapillin	柴胡	F7
+MOL004609	Areapillin	柴胡	PTPN22
+MOL004609	Areapillin	柴胡	TOP2A
+MOL004609	Areapillin	柴胡	ESR2
+MOL004609	Areapillin	柴胡	DPP4
+MOL004609	Areapillin	柴胡	HSP90AB1
+MOL004609	Areapillin	柴胡	IGHG1
+MOL004609	Areapillin	柴胡	PRSS1
+MOL004609	Areapillin	柴胡	PNRC2
+MOL004609	Areapillin	柴胡	NCOA7
+MOL004609	Areapillin	柴胡	CALML5
+MOL013187	Cubebin	柴胡	PTGS1
+MOL013187	Cubebin	柴胡	F10
+MOL013187	Cubebin	柴胡	PTGS2
+MOL013187	Cubebin	柴胡	ADRB2
+MOL013187	Cubebin	柴胡	HSP90AB1
+MOL004624	Longikaurin A	柴胡	CHRM1
+MOL004624	Longikaurin A	柴胡	GABRA2
+MOL004624	Longikaurin A	柴胡	GABRA3
+MOL004624	Longikaurin A	柴胡	CHRM2
+MOL004624	Longikaurin A	柴胡	PRSS1
+MOL004624	Longikaurin A	柴胡	GABRA6
+MOL004653	(+)-Anomalin	柴胡	F2
+MOL004653	(+)-Anomalin	柴胡	KCNC2
+MOL004653	(+)-Anomalin	柴胡	F10
+MOL004653	(+)-Anomalin	柴胡	PTGS2
+MOL004653	(+)-Anomalin	柴胡	TOP2A
+MOL004653	(+)-Anomalin	柴胡	DPP4
+MOL004718	α-spinasterol	柴胡	PGR
+MOL004718	α-spinasterol	柴胡	NR3C2
+MOL004718	α-spinasterol	柴胡	PNRC2
+MOL000490	petunidin	柴胡	NOS2
+MOL000490	petunidin	柴胡	PTGS1
+MOL000490	petunidin	柴胡	PTGS2
+MOL000490	petunidin	柴胡	ESR2
+MOL000490	petunidin	柴胡	MAPK14
+MOL000490	petunidin	柴胡	GSK3B
+MOL000490	petunidin	柴胡	HSP90AB1
+MOL000490	petunidin	柴胡	PNRC2
+MOL000098	quercetin	柴胡	PTGS1
+MOL000098	quercetin	柴胡	AR
+MOL000098	quercetin	柴胡	PPARG
+MOL000098	quercetin	柴胡	PTGS2
+MOL000098	quercetin	柴胡	HSP90AB1
+MOL000098	quercetin	柴胡	PIK3CG
+MOL000098	quercetin	柴胡	PNRC2
+MOL000098	quercetin	柴胡	DPP4
+MOL000098	quercetin	柴胡	AKR1B1
+MOL000098	quercetin	柴胡	PRSS1
+MOL000098	quercetin	柴胡	TOP2A
+MOL000098	quercetin	柴胡	F2
+MOL000098	quercetin	柴胡	KCNC2
+MOL000098	quercetin	柴胡	SCNN1A
+MOL000098	quercetin	柴胡	F10
+MOL000098	quercetin	柴胡	ADRB2
+MOL000098	quercetin	柴胡	MMP3
+MOL000098	quercetin	柴胡	PRKACA
+MOL000098	quercetin	柴胡	F7
+MOL000098	quercetin	柴胡	NOS3
+MOL000098	quercetin	柴胡	RXRA
+MOL000098	quercetin	柴胡	ACHE
+MOL000098	quercetin	柴胡	GABRA1
+MOL000098	quercetin	柴胡	RELA
+MOL000098	quercetin	柴胡	EGF
+MOL000098	quercetin	柴胡	AKT1
+MOL000098	quercetin	柴胡	VEGFC
+MOL000098	quercetin	柴胡	CCND3
+MOL000098	quercetin	柴胡	BCL2
+MOL000098	quercetin	柴胡	BAK1
+MOL000098	quercetin	柴胡	FOS
+MOL000098	quercetin	柴胡	CDKN1C
+MOL000098	quercetin	柴胡	EIF2A
+MOL000098	quercetin	柴胡	BAX
+MOL000098	quercetin	柴胡	CASP9
+MOL000098	quercetin	柴胡	PLAU
+MOL000098	quercetin	柴胡	MMP2
+MOL000098	quercetin	柴胡	MMP9
+MOL000098	quercetin	柴胡	MAP3K7
+MOL000098	quercetin	柴胡	IL10
+MOL000098	quercetin	柴胡	RBL1
+MOL000098	quercetin	柴胡	TNF
+MOL000098	quercetin	柴胡	JUN
+MOL000098	quercetin	柴胡	IL36A
+MOL000098	quercetin	柴胡	CDKN2A
+MOL000098	quercetin	柴胡	AHSA1
+MOL000098	quercetin	柴胡	CASP3
+MOL000098	quercetin	柴胡	TP53
+MOL000098	quercetin	柴胡	ELK1
+MOL000098	quercetin	柴胡	NFKBIE
+MOL000098	quercetin	柴胡	POR
+MOL000098	quercetin	柴胡	ODC1
+MOL000098	quercetin	柴胡	XDH
+MOL000098	quercetin	柴胡	CASP8
+MOL000098	quercetin	柴胡	TOP1
+MOL000098	quercetin	柴胡	RAF1
+MOL000098	quercetin	柴胡	C3
+MOL000098	quercetin	柴胡	MMP1
+MOL000098	quercetin	柴胡	HIF1AN
+MOL000098	quercetin	柴胡	STAT4
+MOL000098	quercetin	柴胡	RUNX1T1
+MOL000098	quercetin	柴胡	HERC5
+MOL000098	quercetin	柴胡	CDK1
+MOL000098	quercetin	柴胡	HSPA5
+MOL000098	quercetin	柴胡	ERBB2
+MOL000098	quercetin	柴胡	ACACB
+MOL000098	quercetin	柴胡	HMOX1
+MOL000098	quercetin	柴胡	CYP3A4
+MOL000098	quercetin	柴胡	CYP1A2
+MOL000098	quercetin	柴胡	CAV1
+MOL000098	quercetin	柴胡	MYC
+MOL000098	quercetin	柴胡	F3
+MOL000098	quercetin	柴胡	GJA1
+MOL000098	quercetin	柴胡	CYP1A1
+MOL000098	quercetin	柴胡	ICAM2
+MOL000098	quercetin	柴胡	IL1B
+MOL000098	quercetin	柴胡	CX3CR1
+MOL000098	quercetin	柴胡	SELE
+MOL000098	quercetin	柴胡	VCAM1
+MOL000098	quercetin	柴胡	PTGER3
+MOL000098	quercetin	柴胡	IL36B
+MOL000098	quercetin	柴胡	PRKCB
+MOL000098	quercetin	柴胡	NAIP
+MOL000098	quercetin	柴胡	DUOXA1
+MOL000098	quercetin	柴胡	HSPB1
+MOL000098	quercetin	柴胡	TGFB1
+MOL000098	quercetin	柴胡	SULT1E1
+MOL000098	quercetin	柴胡	MGAM
+MOL000098	quercetin	柴胡	IL2
+MOL000098	quercetin	柴胡	NR1I2
+MOL000098	quercetin	柴胡	CYP1B1
+MOL000098	quercetin	柴胡	CCNB1
+MOL000098	quercetin	柴胡	PLAT
+MOL000098	quercetin	柴胡	THBD
+MOL000098	quercetin	柴胡	SERPINE1
+MOL000098	quercetin	柴胡	COL19A1
+MOL000098	quercetin	柴胡	IFNG
+MOL000098	quercetin	柴胡	ALOX5
+MOL000098	quercetin	柴胡	PTEN
+MOL000098	quercetin	柴胡	IL1A
+MOL000098	quercetin	柴胡	MPO
+MOL000098	quercetin	柴胡	NCF2
+MOL000098	quercetin	柴胡	ABCG4
+MOL000098	quercetin	柴胡	HAS2
+MOL000098	quercetin	柴胡	GSTP1
+MOL000098	quercetin	柴胡	NFE2L2
+MOL000098	quercetin	柴胡	AHR
+MOL000098	quercetin	柴胡	PSMD11
+MOL000098	quercetin	柴胡	SLC2A2
+MOL000098	quercetin	柴胡	COL3A1
+MOL000098	quercetin	柴胡	TOP2B
+MOL000098	quercetin	柴胡	CXCL13
+MOL000098	quercetin	柴胡	DDB1
+MOL000098	quercetin	柴胡	CHEK2
+MOL000098	quercetin	柴胡	INSR
+MOL000098	quercetin	柴胡	CLDN4
+MOL000098	quercetin	柴胡	PPARA
+MOL000098	quercetin	柴胡	PPARD
+MOL000098	quercetin	柴胡	CRP
+MOL000098	quercetin	柴胡	NFKB1
+MOL000098	quercetin	柴胡	SPP1
+MOL000098	quercetin	柴胡	RUNX3
+MOL000098	quercetin	柴胡	RASSF3
+MOL000098	quercetin	柴胡	E2F1
+MOL000098	quercetin	柴胡	E2F2
+MOL000098	quercetin	柴胡	ACP3
+MOL000098	quercetin	柴胡	CTSD
+MOL000098	quercetin	柴胡	IGFBP6
+MOL000098	quercetin	柴胡	IGF2
+MOL000098	quercetin	柴胡	CD40LG
+MOL000098	quercetin	柴胡	IRF3
+MOL000098	quercetin	柴胡	ERBB3
+MOL000098	quercetin	柴胡	PON2
+MOL000098	quercetin	柴胡	DIO1
+MOL000098	quercetin	柴胡	PCOLCE
+MOL000098	quercetin	柴胡	NPEPPS
+MOL000098	quercetin	柴胡	HK2
+MOL000098	quercetin	柴胡	NKX3-1
+MOL000098	quercetin	柴胡	RASA1
+MOL000098	quercetin	柴胡	PRXC1A
+MOL000098	quercetin	柴胡	GSTM2
+MOL000358	beta-sitosterol	当归	PGR
+MOL000358	beta-sitosterol	当归	PNRC2
+MOL000358	beta-sitosterol	当归	PTGS1
+MOL000358	beta-sitosterol	当归	PTGS2
+MOL000358	beta-sitosterol	当归	HSP90AB1
+MOL000358	beta-sitosterol	当归	PIK3CG
+MOL000358	beta-sitosterol	当归	KCNC2
+MOL000358	beta-sitosterol	当归	PRKACA
+MOL000358	beta-sitosterol	当归	DRD1
+MOL000358	beta-sitosterol	当归	CHRM3
+MOL000358	beta-sitosterol	当归	CHRM1
+MOL000358	beta-sitosterol	当归	SCNN1A
+MOL000358	beta-sitosterol	当归	GABRA2
+MOL000358	beta-sitosterol	当归	CHRM4
+MOL000358	beta-sitosterol	当归	PDE3A
+MOL000358	beta-sitosterol	当归	HTR2A
+MOL000358	beta-sitosterol	当归	GABRA5
+MOL000358	beta-sitosterol	当归	ADRA1A
+MOL000358	beta-sitosterol	当归	GABRA3
+MOL000358	beta-sitosterol	当归	CHRM2
+MOL000358	beta-sitosterol	当归	ADRA1B
+MOL000358	beta-sitosterol	当归	ADRB2
+MOL000358	beta-sitosterol	当归	CHRNA2
+MOL000358	beta-sitosterol	当归	SLC6A4
+MOL000358	beta-sitosterol	当归	OPRM1
+MOL000358	beta-sitosterol	当归	GABRA1
+MOL000358	beta-sitosterol	当归	CHRNA7
+MOL000358	beta-sitosterol	当归	NOS3
+MOL000358	beta-sitosterol	当归	BCL2
+MOL000358	beta-sitosterol	当归	BAX
+MOL000358	beta-sitosterol	当归	CASP9
+MOL000358	beta-sitosterol	当归	JUN
+MOL000358	beta-sitosterol	当归	CASP3
+MOL000358	beta-sitosterol	当归	CASP8
+MOL000358	beta-sitosterol	当归	C3
+MOL000358	beta-sitosterol	当归	TGFB1
+MOL000358	beta-sitosterol	当归	PON2
+MOL000358	beta-sitosterol	当归	MAP4
+MOL000449	Stigmasterol	当归	PGR
+MOL000449	Stigmasterol	当归	NR3C2
+MOL000449	Stigmasterol	当归	PNRC2
+MOL000449	Stigmasterol	当归	ADH1C
+MOL000449	Stigmasterol	当归	IGHG1
+MOL000449	Stigmasterol	当归	RXRA
+MOL000449	Stigmasterol	当归	NCOA7
+MOL000449	Stigmasterol	当归	PTGS1
+MOL000449	Stigmasterol	当归	PTGS2
+MOL000449	Stigmasterol	当归	ADRA2A
+MOL000449	Stigmasterol	当归	SLC6A2
+MOL000449	Stigmasterol	当归	SLC6A3
+MOL000449	Stigmasterol	当归	ADRB2
+MOL000449	Stigmasterol	当归	AKR1B1
+MOL000449	Stigmasterol	当归	PLAU
+MOL000449	Stigmasterol	当归	LTA4H
+MOL000449	Stigmasterol	当归	PRKACA
+MOL000449	Stigmasterol	当归	CTRB1
+MOL000449	Stigmasterol	当归	CHRM3
+MOL000449	Stigmasterol	当归	CHRM1
+MOL000449	Stigmasterol	当归	ADRB1
+MOL000449	Stigmasterol	当归	SCNN1A
+MOL000449	Stigmasterol	当归	HTR2A
+MOL000449	Stigmasterol	当归	ADRA1A
+MOL000449	Stigmasterol	当归	GABRA3
+MOL000449	Stigmasterol	当归	CHRM2
+MOL000449	Stigmasterol	当归	ADRA1B
+MOL000449	Stigmasterol	当归	GABRA1
+MOL000449	Stigmasterol	当归	CHRNA7
+MOL000273	(2R)-2-[(3S,5R,10S,13R,14R,16R,17R)-3,16-dihydroxy-4,4,10,13,14-pentamethyl-2,3,5,6,12,15,16,17-octahydro-1H-cyclopenta[a]phenanthren-17-yl]-6-methylhept-5-enoic acid	茯苓	NR3C2
+MOL000273	(2R)-2-[(3S,5R,10S,13R,14R,16R,17R)-3,16-dihydroxy-4,4,10,13,14-pentamethyl-2,3,5,6,12,15,16,17-octahydro-1H-cyclopenta[a]phenanthren-17-yl]-6-methylhept-5-enoic acid	茯苓	PNRC2
+MOL000275	trametenolic acid	茯苓	NR3C2
+MOL000279	Cerevisterol	茯苓	NR3C2
+MOL000282	ergosta-7,22E-dien-3beta-ol	茯苓	PGR
+MOL000283	Ergosterol peroxide	茯苓	PGR
+MOL000296	hederagenin	茯苓	PGR
+MOL000296	hederagenin	茯苓	PNRC2
+MOL000296	hederagenin	茯苓	CHRM3
+MOL000296	hederagenin	茯苓	CHRM1
+MOL000296	hederagenin	茯苓	GABRA2
+MOL000296	hederagenin	茯苓	GABRA3
+MOL000296	hederagenin	茯苓	CHRM2
+MOL000296	hederagenin	茯苓	ADRA1B
+MOL000296	hederagenin	茯苓	GABRA1
+MOL000296	hederagenin	茯苓	GRIN2A
+MOL000296	hederagenin	茯苓	GABRA6
+MOL000296	hederagenin	茯苓	GABRA5
+MOL000296	hederagenin	茯苓	IGHG1
+MOL000296	hederagenin	茯苓	ADH1B
+MOL000296	hederagenin	茯苓	ADH1C
+MOL000296	hederagenin	茯苓	LYZ
+MOL000296	hederagenin	茯苓	COBT
+MOL000296	hederagenin	茯苓	PTGS1
+MOL000296	hederagenin	茯苓	SCNN1A
+MOL000296	hederagenin	茯苓	PTGS2
+MOL000296	hederagenin	茯苓	RXRA
+MOL000296	hederagenin	茯苓	PDE3A
+MOL000296	hederagenin	茯苓	SLC6A2
+MOL000296	hederagenin	茯苓	NOS3
+MOL001484	Inermine	甘草	PTGS1
+MOL001484	Inermine	甘草	CHRM3
+MOL001484	Inermine	甘草	SCNN1A
+MOL001484	Inermine	甘草	PTGS2
+MOL001484	Inermine	甘草	HTR3A
+MOL001484	Inermine	甘草	RXRA
+MOL001484	Inermine	甘草	ADRA1B
+MOL001484	Inermine	甘草	ADRA1D
+MOL001484	Inermine	甘草	PIK3CG
+MOL001484	Inermine	甘草	PRKACA
+MOL001484	Inermine	甘草	IGHG1
+MOL001484	Inermine	甘草	PRSS1
+MOL001484	Inermine	甘草	CALML5
+MOL001484	Inermine	甘草	CHRM1
+MOL001484	Inermine	甘草	ADRB2
+MOL001484	Inermine	甘草	OPRM1
+MOL001484	Inermine	甘草	HSP90AB1
+MOL001792	DFV	甘草	PTGS1
+MOL001792	DFV	甘草	NCOA7
+MOL001792	DFV	甘草	PTGS2
+MOL001792	DFV	甘草	RXRA
+MOL001792	DFV	甘草	ADRB2
+MOL001792	DFV	甘草	HSP90AB1
+MOL001792	DFV	甘草	PIK3CG
+MOL001792	DFV	甘草	PRKACA
+MOL001792	DFV	甘草	LACTB
+MOL001792	DFV	甘草	SLC6A4
+MOL001792	DFV	甘草	PKIA
+MOL000211	Mairin	甘草	PGR
+MOL002311	Glycyrol	甘草	NOS2
+MOL002311	Glycyrol	甘草	NCOA7
+MOL002311	Glycyrol	甘草	PPARG
+MOL002311	Glycyrol	甘草	PTGS2
+MOL002311	Glycyrol	甘草	VEGFC
+MOL002311	Glycyrol	甘草	MAPK14
+MOL002311	Glycyrol	甘草	GSK3B
+MOL002311	Glycyrol	甘草	CHEK1
+MOL002311	Glycyrol	甘草	PIM1
+MOL002311	Glycyrol	甘草	CCNA2
+MOL002311	Glycyrol	甘草	F2
+MOL000239	Jaranol	甘草	NOS2
+MOL000239	Jaranol	甘草	PTGS1
+MOL000239	Jaranol	甘草	AR
+MOL000239	Jaranol	甘草	SCNN1A
+MOL000239	Jaranol	甘草	PTGS2
+MOL000239	Jaranol	甘草	ESR2
+MOL000239	Jaranol	甘草	DPP4
+MOL000239	Jaranol	甘草	HSP90AB1
+MOL000239	Jaranol	甘草	CDK1
+MOL000239	Jaranol	甘草	CHEK1
+MOL000239	Jaranol	甘草	PRSS1
+MOL000239	Jaranol	甘草	PNRC2
+MOL000239	Jaranol	甘草	CALML5
+MOL002565	Medicarpin	甘草	NOS2
+MOL002565	Medicarpin	甘草	PTGS1
+MOL002565	Medicarpin	甘草	DRD1
+MOL002565	Medicarpin	甘草	CHRM3
+MOL002565	Medicarpin	甘草	CHRM1
+MOL002565	Medicarpin	甘草	NCOA7
+MOL002565	Medicarpin	甘草	SCNN1A
+MOL002565	Medicarpin	甘草	CHRM5
+MOL002565	Medicarpin	甘草	PTGS2
+MOL002565	Medicarpin	甘草	CHRM4
+MOL002565	Medicarpin	甘草	RXRA
+MOL002565	Medicarpin	甘草	HTR2A
+MOL002565	Medicarpin	甘草	ADRA1A
+MOL002565	Medicarpin	甘草	CHRM2
+MOL002565	Medicarpin	甘草	ADRA1B
+MOL002565	Medicarpin	甘草	SLC6A3
+MOL002565	Medicarpin	甘草	ADRB2
+MOL002565	Medicarpin	甘草	SLC6A4
+MOL002565	Medicarpin	甘草	OPRM1
+MOL002565	Medicarpin	甘草	ESR2
+MOL002565	Medicarpin	甘草	DPP4
+MOL002565	Medicarpin	甘草	MAP3K7
+MOL002565	Medicarpin	甘草	HSP90AB1
+MOL002565	Medicarpin	甘草	CDK1
+MOL002565	Medicarpin	甘草	PIK3CG
+MOL002565	Medicarpin	甘草	CHRNA7
+MOL002565	Medicarpin	甘草	PRKACA
+MOL002565	Medicarpin	甘草	PRSS1
+MOL002565	Medicarpin	甘草	PIM1
+MOL002565	Medicarpin	甘草	CCNA2
+MOL002565	Medicarpin	甘草	CALML5
+MOL002565	Medicarpin	甘草	OPRD1
+MOL002565	Medicarpin	甘草	PDE3A
+MOL002565	Medicarpin	甘草	ADRA1D
+MOL000354	isorhamnetin	甘草	NOS2
+MOL000354	isorhamnetin	甘草	PTGS1
+MOL000354	isorhamnetin	甘草	NCOA7
+MOL000354	isorhamnetin	甘草	AR
+MOL000354	isorhamnetin	甘草	PPARG
+MOL000354	isorhamnetin	甘草	PTGS2
+MOL000354	isorhamnetin	甘草	PTPN22
+MOL000354	isorhamnetin	甘草	ESR2
+MOL000354	isorhamnetin	甘草	DPP4
+MOL000354	isorhamnetin	甘草	MAPK14
+MOL000354	isorhamnetin	甘草	GSK3B
+MOL000354	isorhamnetin	甘草	HSP90AB1
+MOL000354	isorhamnetin	甘草	CDK1
+MOL000354	isorhamnetin	甘草	PIK3CG
+MOL000354	isorhamnetin	甘草	PRKACA
+MOL000354	isorhamnetin	甘草	PRSS1
+MOL000354	isorhamnetin	甘草	PIM1
+MOL000354	isorhamnetin	甘草	CCNA2
+MOL000354	isorhamnetin	甘草	PNRC2
+MOL000354	isorhamnetin	甘草	CALML5
+MOL000354	isorhamnetin	甘草	PYGM
+MOL000354	isorhamnetin	甘草	PPARD
+MOL000354	isorhamnetin	甘草	CHEK1
+MOL000354	isorhamnetin	甘草	AKR1B1
+MOL000354	isorhamnetin	甘草	F7
+MOL000354	isorhamnetin	甘草	F2
+MOL000354	isorhamnetin	甘草	NOS3
+MOL000354	isorhamnetin	甘草	ACHE
+MOL000354	isorhamnetin	甘草	GABRA1
+MOL000354	isorhamnetin	甘草	GRIN2A
+MOL000354	isorhamnetin	甘草	RELA
+MOL000354	isorhamnetin	甘草	XDH
+MOL000354	isorhamnetin	甘草	NCF2
+MOL000354	isorhamnetin	甘草	OLR1
+MOL000359	sitosterol	甘草	PGR
+MOL000359	sitosterol	甘草	PNRC2
+MOL000359	sitosterol	甘草	NR3C2
+MOL003656	Lupiwighteone	甘草	NOS2
+MOL003656	Lupiwighteone	甘草	F2
+MOL003656	Lupiwighteone	甘草	NCOA7
+MOL003656	Lupiwighteone	甘草	AR
+MOL003656	Lupiwighteone	甘草	SCNN1A
+MOL003656	Lupiwighteone	甘草	PPARG
+MOL003656	Lupiwighteone	甘草	F10
+MOL003656	Lupiwighteone	甘草	PTGS2
+MOL003656	Lupiwighteone	甘草	TOP2A
+MOL003656	Lupiwighteone	甘草	ESR2
+MOL003656	Lupiwighteone	甘草	DPP4
+MOL003656	Lupiwighteone	甘草	MAPK14
+MOL003656	Lupiwighteone	甘草	GSK3B
+MOL003656	Lupiwighteone	甘草	HSP90AB1
+MOL003656	Lupiwighteone	甘草	CDK1
+MOL003656	Lupiwighteone	甘草	CHEK1
+MOL003656	Lupiwighteone	甘草	PRSS1
+MOL003656	Lupiwighteone	甘草	PIM1
+MOL003656	Lupiwighteone	甘草	CCNA2
+MOL003656	Lupiwighteone	甘草	PNRC2
+MOL003656	Lupiwighteone	甘草	CALML5
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	NOS2
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	PTGS1
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	DRD1
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	CHRM3
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	F2
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	CHRM1
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	NCOA7
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	AR
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	ADRB1
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	SCNN1A
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	PPARG
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	PTGS2
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	RXRA
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	ACHE
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	PDE3A
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	ADRA1B
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	SLC6A3
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	ADRB2
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	ADRA1D
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	SLC6A4
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	ESR2
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	GABRA1
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	DPP4
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	MAPK14
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	GSK3B
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	HSP90AB1
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	CDK1
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	LTA4H
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	CHRNA7
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	CHEK1
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	PRKACA
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	IGHG1
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	PRSS1
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	PIM1
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	CCNA2
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	PKIA
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	CALML5
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	CHRM5
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	NOS3
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	OPRM1
+MOL003896	7-Methoxy-2-methyl isoflavone	甘草	PNRC2
+MOL000392	formononetin	甘草	NOS2
+MOL000392	formononetin	甘草	PTGS1
+MOL000392	formononetin	甘草	CHRM1
+MOL000392	formononetin	甘草	NCOA7
+MOL000392	formononetin	甘草	AR
+MOL000392	formononetin	甘草	PPARG
+MOL000392	formononetin	甘草	PTGS2
+MOL000392	formononetin	甘草	RXRA
+MOL000392	formononetin	甘草	PDE3A
+MOL000392	formononetin	甘草	ADRA1A
+MOL000392	formononetin	甘草	SLC6A3
+MOL000392	formononetin	甘草	ADRB2
+MOL000392	formononetin	甘草	SLC6A4
+MOL000392	formononetin	甘草	ESR2
+MOL000392	formononetin	甘草	DPP4
+MOL000392	formononetin	甘草	MAPK14
+MOL000392	formononetin	甘草	GSK3B
+MOL000392	formononetin	甘草	HSP90AB1
+MOL000392	formononetin	甘草	CDK1
+MOL000392	formononetin	甘草	CHEK1
+MOL000392	formononetin	甘草	PRKACA
+MOL000392	formononetin	甘草	PRSS1
+MOL000392	formononetin	甘草	PIM1
+MOL000392	formononetin	甘草	CCNA2
+MOL000392	formononetin	甘草	CALML5
+MOL000392	formononetin	甘草	PKIA
+MOL000392	formononetin	甘草	F2
+MOL000392	formononetin	甘草	NOS3
+MOL000392	formononetin	甘草	ACHE
+MOL000392	formononetin	甘草	LACTB
+MOL000392	formononetin	甘草	JUN
+MOL000392	formononetin	甘草	IL4
+MOL000392	formononetin	甘草	SIRT1
+MOL000392	formononetin	甘草	ATP5F1E
+MOL000392	formononetin	甘草	MT-ND1
+MOL000392	formononetin	甘草	HSD3B1
+MOL000417	Calycosin	甘草	NOS2
+MOL000417	Calycosin	甘草	PTGS1
+MOL000417	Calycosin	甘草	NCOA7
+MOL000417	Calycosin	甘草	AR
+MOL000417	Calycosin	甘草	PPARG
+MOL000417	Calycosin	甘草	PTGS2
+MOL000417	Calycosin	甘草	RXRA
+MOL000417	Calycosin	甘草	PDE3A
+MOL000417	Calycosin	甘草	ESR2
+MOL000417	Calycosin	甘草	DPP4
+MOL000417	Calycosin	甘草	MAPK14
+MOL000417	Calycosin	甘草	GSK3B
+MOL000417	Calycosin	甘草	HSP90AB1
+MOL000417	Calycosin	甘草	CDK1
+MOL000417	Calycosin	甘草	CHEK1
+MOL000417	Calycosin	甘草	PRKACA
+MOL000417	Calycosin	甘草	PRSS1
+MOL000417	Calycosin	甘草	PIM1
+MOL000417	Calycosin	甘草	CCNA2
+MOL000417	Calycosin	甘草	PNRC2
+MOL000417	Calycosin	甘草	CALML5
+MOL000417	Calycosin	甘草	ADRB2
+MOL000422	kaempferol	甘草	NOS2
+MOL000422	kaempferol	甘草	PTGS1
+MOL000422	kaempferol	甘草	AR
+MOL000422	kaempferol	甘草	PPARG
+MOL000422	kaempferol	甘草	PTGS2
+MOL000422	kaempferol	甘草	HSP90AB1
+MOL000422	kaempferol	甘草	PIK3CG
+MOL000422	kaempferol	甘草	PRKACA
+MOL000422	kaempferol	甘草	PNRC2
+MOL000422	kaempferol	甘草	DPP4
+MOL000422	kaempferol	甘草	PRSS1
+MOL000422	kaempferol	甘草	PGR
+MOL000422	kaempferol	甘草	F2
+MOL000422	kaempferol	甘草	CHRM1
+MOL000422	kaempferol	甘草	NOS3
+MOL000422	kaempferol	甘草	GABRA2
+MOL000422	kaempferol	甘草	ACHE
+MOL000422	kaempferol	甘草	SLC6A2
+MOL000422	kaempferol	甘草	CHRM2
+MOL000422	kaempferol	甘草	ADRA1B
+MOL000422	kaempferol	甘草	GABRA1
+MOL000422	kaempferol	甘草	TOP2A
+MOL000422	kaempferol	甘草	F7
+MOL000422	kaempferol	甘草	CALML5
+MOL000422	kaempferol	甘草	RELA
+MOL000422	kaempferol	甘草	IKBKB
+MOL000422	kaempferol	甘草	AKT1
+MOL000422	kaempferol	甘草	BCL2
+MOL000422	kaempferol	甘草	BAX
+MOL000422	kaempferol	甘草	TNF
+MOL000422	kaempferol	甘草	JUN
+MOL000422	kaempferol	甘草	AHSA1
+MOL000422	kaempferol	甘草	CASP3
+MOL000422	kaempferol	甘草	MAP3K7
+MOL000422	kaempferol	甘草	XDH
+MOL000422	kaempferol	甘草	MMP1
+MOL000422	kaempferol	甘草	STAT4
+MOL000422	kaempferol	甘草	CDK1
+MOL000422	kaempferol	甘草	HMOX1
+MOL000422	kaempferol	甘草	CYP3A4
+MOL000422	kaempferol	甘草	CYP1A2
+MOL000422	kaempferol	甘草	CYP1A1
+MOL000422	kaempferol	甘草	ICAM2
+MOL000422	kaempferol	甘草	SELE
+MOL000422	kaempferol	甘草	VCAM1
+MOL000422	kaempferol	甘草	NR1I2
+MOL000422	kaempferol	甘草	CYP1B1
+MOL000422	kaempferol	甘草	ALOX5
+MOL000422	kaempferol	甘草	HAS2
+MOL000422	kaempferol	甘草	GSTP1
+MOL000422	kaempferol	甘草	AHR
+MOL000422	kaempferol	甘草	PSMD11
+MOL000422	kaempferol	甘草	SLC2A2
+MOL000422	kaempferol	甘草	INSR
+MOL000422	kaempferol	甘草	DIO1
+MOL000422	kaempferol	甘草	PPP3CA
+MOL000422	kaempferol	甘草	PRXC1A
+MOL000422	kaempferol	甘草	GSTM2
+MOL000422	kaempferol	甘草	AKR1C3
+MOL000422	kaempferol	甘草	SLPI
+MOL004328	naringenin	甘草	PTGS1
+MOL004328	naringenin	甘草	NCOA7
+MOL004328	naringenin	甘草	PTGS2
+MOL004328	naringenin	甘草	HSP90AB1
+MOL004328	naringenin	甘草	LACTB
+MOL004328	naringenin	甘草	PRKACA
+MOL004328	naringenin	甘草	PIK3CG
+MOL004328	naringenin	甘草	RELA
+MOL004328	naringenin	甘草	AKT1
+MOL004328	naringenin	甘草	BCL2
+MOL004328	naringenin	甘草	MAP3K7
+MOL004328	naringenin	甘草	CASP3
+MOL004328	naringenin	甘草	ELOVL6
+MOL004328	naringenin	甘草	LDLR
+MOL004328	naringenin	甘草	BAD
+MOL004328	naringenin	甘草	CAT
+MOL004328	naringenin	甘草	PPARG
+MOL004328	naringenin	甘草	MTTP
+MOL004328	naringenin	甘草	APOB
+MOL004328	naringenin	甘草	PLB1
+MOL004328	naringenin	甘草	HMGCR
+MOL004328	naringenin	甘草	CYP19A1
+MOL004328	naringenin	甘草	GSTP1
+MOL004328	naringenin	甘草	UGT1A1
+MOL004328	naringenin	甘草	PPARA
+MOL004328	naringenin	甘草	SREBF2
+MOL004328	naringenin	甘草	GSR
+MOL004328	naringenin	甘草	ABCC11
+MOL004328	naringenin	甘草	ADIPOQ
+MOL004328	naringenin	甘草	SOAT2
+MOL004328	naringenin	甘草	AKR1C1
+MOL004328	naringenin	甘草	GOT1
+MOL004328	naringenin	甘草	ABAT
+MOL004328	naringenin	甘草	CES3
+MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	甘草	NOS2
+MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	甘草	KCNC2
+MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	甘草	NCOA7
+MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	甘草	AR
+MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	甘草	PPARG
+MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	甘草	F10
+MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	甘草	PTGS2
+MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	甘草	ESR2
+MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	甘草	MAPK14
+MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	甘草	GSK3B
+MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	甘草	PIM1
+MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	甘草	CALML5
+MOL004806	euchrenone	甘草	NOS2
+MOL004806	euchrenone	甘草	KCNC2
+MOL004806	euchrenone	甘草	NCOA7
+MOL004806	euchrenone	甘草	SCNN1A
+MOL004806	euchrenone	甘草	F10
+MOL004806	euchrenone	甘草	PTGS2
+MOL004806	euchrenone	甘草	ESR2
+MOL004806	euchrenone	甘草	BACE1
+MOL004806	euchrenone	甘草	PIM1
+MOL004806	euchrenone	甘草	CALML5
+MOL004808	glyasperin B	甘草	NOS2
+MOL004808	glyasperin B	甘草	F2
+MOL004808	glyasperin B	甘草	NCOA7
+MOL004808	glyasperin B	甘草	AR
+MOL004808	glyasperin B	甘草	PPARG
+MOL004808	glyasperin B	甘草	F10
+MOL004808	glyasperin B	甘草	PTGS2
+MOL004808	glyasperin B	甘草	F7
+MOL004808	glyasperin B	甘草	VEGFC
+MOL004808	glyasperin B	甘草	ACHE
+MOL004808	glyasperin B	甘草	TOP2A
+MOL004808	glyasperin B	甘草	ESR2
+MOL004808	glyasperin B	甘草	DPP4
+MOL004808	glyasperin B	甘草	GSK3B
+MOL004808	glyasperin B	甘草	HSP90AB1
+MOL004808	glyasperin B	甘草	CDK1
+MOL004808	glyasperin B	甘草	PRSS1
+MOL004808	glyasperin B	甘草	PIM1
+MOL004808	glyasperin B	甘草	CCNA2
+MOL004808	glyasperin B	甘草	PNRC2
+MOL004808	glyasperin B	甘草	CALML5
+MOL004810	glyasperin F	甘草	NOS2
+MOL004810	glyasperin F	甘草	PTGS1
+MOL004810	glyasperin F	甘草	NCOA7
+MOL004810	glyasperin F	甘草	AR
+MOL004810	glyasperin F	甘草	SCNN1A
+MOL004810	glyasperin F	甘草	PPARG
+MOL004810	glyasperin F	甘草	F10
+MOL004810	glyasperin F	甘草	PTGS2
+MOL004810	glyasperin F	甘草	TOP2A
+MOL004810	glyasperin F	甘草	ESR2
+MOL004810	glyasperin F	甘草	MAPK14
+MOL004810	glyasperin F	甘草	GSK3B
+MOL004810	glyasperin F	甘草	HSP90AB1
+MOL004810	glyasperin F	甘草	CDK1
+MOL004810	glyasperin F	甘草	PRSS1
+MOL004810	glyasperin F	甘草	PIM1
+MOL004810	glyasperin F	甘草	CCNA2
+MOL004810	glyasperin F	甘草	CALML5
+MOL004811	Glyasperin C	甘草	NOS2
+MOL004811	Glyasperin C	甘草	F2
+MOL004811	Glyasperin C	甘草	KCNC2
+MOL004811	Glyasperin C	甘草	NCOA7
+MOL004811	Glyasperin C	甘草	AR
+MOL004811	Glyasperin C	甘草	SCNN1A
+MOL004811	Glyasperin C	甘草	PPARG
+MOL004811	Glyasperin C	甘草	F10
+MOL004811	Glyasperin C	甘草	PTGS2
+MOL004811	Glyasperin C	甘草	RXRA
+MOL004811	Glyasperin C	甘草	ACHE
+MOL004811	Glyasperin C	甘草	TOP2A
+MOL004811	Glyasperin C	甘草	ESR2
+MOL004811	Glyasperin C	甘草	DPP4
+MOL004811	Glyasperin C	甘草	MAPK14
+MOL004811	Glyasperin C	甘草	GSK3B
+MOL004811	Glyasperin C	甘草	HSP90AB1
+MOL004811	Glyasperin C	甘草	CDK1
+MOL004811	Glyasperin C	甘草	CHEK1
+MOL004811	Glyasperin C	甘草	PRSS1
+MOL004811	Glyasperin C	甘草	PIM1
+MOL004811	Glyasperin C	甘草	CCNA2
+MOL004811	Glyasperin C	甘草	PNRC2
+MOL004811	Glyasperin C	甘草	CALML5
+MOL004814	Isotrifoliol	甘草	NOS2
+MOL004814	Isotrifoliol	甘草	NCOA7
+MOL004814	Isotrifoliol	甘草	AR
+MOL004814	Isotrifoliol	甘草	PTGS2
+MOL004814	Isotrifoliol	甘草	ESR2
+MOL004814	Isotrifoliol	甘草	MAPK14
+MOL004814	Isotrifoliol	甘草	GSK3B
+MOL004814	Isotrifoliol	甘草	HSP90AB1
+MOL004814	Isotrifoliol	甘草	CDK1
+MOL004814	Isotrifoliol	甘草	PIK3CG
+MOL004814	Isotrifoliol	甘草	CHEK1
+MOL004814	Isotrifoliol	甘草	PRKACA
+MOL004814	Isotrifoliol	甘草	PIM1
+MOL004814	Isotrifoliol	甘草	CCNA2
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	NOS2
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	PTGS1
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	NCOA7
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	AR
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	SCNN1A
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	PPARG
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	F10
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	PTGS2
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	CA2
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	RXRA
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	ADRA1B
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	ESR2
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	MAPK14
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	GSK3B
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	CDK1
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	CHEK1
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	PIM1
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	CCNA2
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	PNRC2
+MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	甘草	CALML5
+MOL004820	kanzonols W	甘草	NOS2
+MOL004820	kanzonols W	甘草	PTGS1
+MOL004820	kanzonols W	甘草	NCOA7
+MOL004820	kanzonols W	甘草	AR
+MOL004820	kanzonols W	甘草	SCNN1A
+MOL004820	kanzonols W	甘草	PPARG
+MOL004820	kanzonols W	甘草	F10
+MOL004820	kanzonols W	甘草	PTGS2
+MOL004820	kanzonols W	甘草	RXRA
+MOL004820	kanzonols W	甘草	TOP2A
+MOL004820	kanzonols W	甘草	ESR2
+MOL004820	kanzonols W	甘草	MAPK14
+MOL004820	kanzonols W	甘草	GSK3B
+MOL004820	kanzonols W	甘草	CDK1
+MOL004820	kanzonols W	甘草	CHEK1
+MOL004820	kanzonols W	甘草	PRSS1
+MOL004820	kanzonols W	甘草	PIM1
+MOL004820	kanzonols W	甘草	CCNA2
+MOL004820	kanzonols W	甘草	PNRC2
+MOL004820	kanzonols W	甘草	CALML5
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	NOS2
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	F2
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	NCOA7
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	AR
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	PPARG
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	F10
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	PTGS2
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	F7
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	VEGFC
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	ACHE
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	TOP2A
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	ESR2
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	DPP4
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	MAPK14
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	GSK3B
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	CDK1
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	CHEK1
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	PRSS1
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	PIM1
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	CCNA2
+MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	甘草	CALML5
+MOL004827	Semilicoisoflavone B	甘草	NOS2
+MOL004827	Semilicoisoflavone B	甘草	F2
+MOL004827	Semilicoisoflavone B	甘草	NCOA7
+MOL004827	Semilicoisoflavone B	甘草	AR
+MOL004827	Semilicoisoflavone B	甘草	SCNN1A
+MOL004827	Semilicoisoflavone B	甘草	PPARG
+MOL004827	Semilicoisoflavone B	甘草	F10
+MOL004827	Semilicoisoflavone B	甘草	PTGS2
+MOL004827	Semilicoisoflavone B	甘草	F7
+MOL004827	Semilicoisoflavone B	甘草	ACHE
+MOL004827	Semilicoisoflavone B	甘草	TOP2A
+MOL004827	Semilicoisoflavone B	甘草	GSK3B
+MOL004827	Semilicoisoflavone B	甘草	HSP90AB1
+MOL004827	Semilicoisoflavone B	甘草	CDK1
+MOL004827	Semilicoisoflavone B	甘草	CHEK1
+MOL004827	Semilicoisoflavone B	甘草	PRSS1
+MOL004827	Semilicoisoflavone B	甘草	CALML5
+MOL004828	Glepidotin A	甘草	NOS2
+MOL004828	Glepidotin A	甘草	PTGS1
+MOL004828	Glepidotin A	甘草	F2
+MOL004828	Glepidotin A	甘草	NCOA7
+MOL004828	Glepidotin A	甘草	AR
+MOL004828	Glepidotin A	甘草	SCNN1A
+MOL004828	Glepidotin A	甘草	PPARG
+MOL004828	Glepidotin A	甘草	F10
+MOL004828	Glepidotin A	甘草	PTGS2
+MOL004828	Glepidotin A	甘草	NOS3
+MOL004828	Glepidotin A	甘草	F7
+MOL004828	Glepidotin A	甘草	VEGFC
+MOL004828	Glepidotin A	甘草	RXRA
+MOL004828	Glepidotin A	甘草	PDE3A
+MOL004828	Glepidotin A	甘草	TOP2A
+MOL004828	Glepidotin A	甘草	DPP4
+MOL004828	Glepidotin A	甘草	MAPK14
+MOL004828	Glepidotin A	甘草	GSK3B
+MOL004828	Glepidotin A	甘草	HSP90AB1
+MOL004828	Glepidotin A	甘草	CDK1
+MOL004828	Glepidotin A	甘草	CHEK1
+MOL004828	Glepidotin A	甘草	IGHG1
+MOL004828	Glepidotin A	甘草	PRSS1
+MOL004828	Glepidotin A	甘草	PIM1
+MOL004828	Glepidotin A	甘草	CCNA2
+MOL004828	Glepidotin A	甘草	CALML5
+MOL004829	Glepidotin B	甘草	PTGS1
+MOL004829	Glepidotin B	甘草	NCOA7
+MOL004829	Glepidotin B	甘草	SCNN1A
+MOL004829	Glepidotin B	甘草	F10
+MOL004829	Glepidotin B	甘草	PTGS2
+MOL004829	Glepidotin B	甘草	NOS3
+MOL004829	Glepidotin B	甘草	F7
+MOL004829	Glepidotin B	甘草	RXRA
+MOL004829	Glepidotin B	甘草	PDE3A
+MOL004829	Glepidotin B	甘草	ADRA1B
+MOL004829	Glepidotin B	甘草	TOP2A
+MOL004829	Glepidotin B	甘草	HSP90AB1
+MOL004829	Glepidotin B	甘草	IGHG1
+MOL004829	Glepidotin B	甘草	CALML5
+MOL004833	Phaseolinisoflavan	甘草	NOS2
+MOL004833	Phaseolinisoflavan	甘草	CHRM1
+MOL004833	Phaseolinisoflavan	甘草	NCOA7
+MOL004833	Phaseolinisoflavan	甘草	AR
+MOL004833	Phaseolinisoflavan	甘草	SCNN1A
+MOL004833	Phaseolinisoflavan	甘草	PPARG
+MOL004833	Phaseolinisoflavan	甘草	F10
+MOL004833	Phaseolinisoflavan	甘草	PTGS2
+MOL004833	Phaseolinisoflavan	甘草	RXRA
+MOL004833	Phaseolinisoflavan	甘草	ACHE
+MOL004833	Phaseolinisoflavan	甘草	ADRA1B
+MOL004833	Phaseolinisoflavan	甘草	ADRB2
+MOL004833	Phaseolinisoflavan	甘草	ESR2
+MOL004833	Phaseolinisoflavan	甘草	MAPK14
+MOL004833	Phaseolinisoflavan	甘草	GSK3B
+MOL004833	Phaseolinisoflavan	甘草	CDK1
+MOL004833	Phaseolinisoflavan	甘草	CHEK1
+MOL004833	Phaseolinisoflavan	甘草	PRSS1
+MOL004833	Phaseolinisoflavan	甘草	PIM1
+MOL004833	Phaseolinisoflavan	甘草	CCNA2
+MOL004833	Phaseolinisoflavan	甘草	CALML5
+MOL004835	Glypallichalcone	甘草	NOS2
+MOL004835	Glypallichalcone	甘草	PTGS1
+MOL004835	Glypallichalcone	甘草	CHRM1
+MOL004835	Glypallichalcone	甘草	NCOA7
+MOL004835	Glypallichalcone	甘草	AR
+MOL004835	Glypallichalcone	甘草	SCNN1A
+MOL004835	Glypallichalcone	甘草	PPARG
+MOL004835	Glypallichalcone	甘草	PTGS2
+MOL004835	Glypallichalcone	甘草	CA2
+MOL004835	Glypallichalcone	甘草	PDE3A
+MOL004835	Glypallichalcone	甘草	ADRA1B
+MOL004835	Glypallichalcone	甘草	SLC6A3
+MOL004835	Glypallichalcone	甘草	ADRB2
+MOL004835	Glypallichalcone	甘草	SLC6A4
+MOL004835	Glypallichalcone	甘草	ESR2
+MOL004835	Glypallichalcone	甘草	MAPK14
+MOL004835	Glypallichalcone	甘草	GSK3B
+MOL004835	Glypallichalcone	甘草	HSP90AB1
+MOL004835	Glypallichalcone	甘草	CDK1
+MOL004835	Glypallichalcone	甘草	LTA4H
+MOL004835	Glypallichalcone	甘草	CHEK1
+MOL004835	Glypallichalcone	甘草	PRKACA
+MOL004835	Glypallichalcone	甘草	CCNA2
+MOL004835	Glypallichalcone	甘草	PKIA
+MOL004835	Glypallichalcone	甘草	CALML5
+MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	甘草	NOS2
+MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	甘草	NCOA7
+MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	甘草	PTGS2
+MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	甘草	RXRA
+MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	甘草	HSP90AB1
+MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	甘草	PIK3CG
+MOL004841	Licochalcone B	甘草	NOS2
+MOL004841	Licochalcone B	甘草	PTGS1
+MOL004841	Licochalcone B	甘草	NCOA7
+MOL004841	Licochalcone B	甘草	AR
+MOL004841	Licochalcone B	甘草	PPARG
+MOL004841	Licochalcone B	甘草	PTGS2
+MOL004841	Licochalcone B	甘草	CA2
+MOL004841	Licochalcone B	甘草	PDE3A
+MOL004841	Licochalcone B	甘草	ADRB2
+MOL004841	Licochalcone B	甘草	ESR2
+MOL004841	Licochalcone B	甘草	MAPK14
+MOL004841	Licochalcone B	甘草	GSK3B
+MOL004841	Licochalcone B	甘草	HSP90AB1
+MOL004841	Licochalcone B	甘草	CDK1
+MOL004841	Licochalcone B	甘草	CHEK1
+MOL004841	Licochalcone B	甘草	PRKACA
+MOL004841	Licochalcone B	甘草	PIM1
+MOL004841	Licochalcone B	甘草	CCNA2
+MOL004841	Licochalcone B	甘草	CALML5
+MOL004848	licochalcone G	甘草	NOS2
+MOL004848	licochalcone G	甘草	NCOA7
+MOL004848	licochalcone G	甘草	AR
+MOL004848	licochalcone G	甘草	PPARG
+MOL004848	licochalcone G	甘草	F10
+MOL004848	licochalcone G	甘草	PTGS2
+MOL004848	licochalcone G	甘草	VEGFC
+MOL004848	licochalcone G	甘草	ESR2
+MOL004848	licochalcone G	甘草	MAPK14
+MOL004848	licochalcone G	甘草	GSK3B
+MOL004848	licochalcone G	甘草	HSP90AB1
+MOL004848	licochalcone G	甘草	CDK1
+MOL004848	licochalcone G	甘草	IGHG1
+MOL004848	licochalcone G	甘草	PIM1
+MOL004848	licochalcone G	甘草	CCNA2
+MOL004848	licochalcone G	甘草	PNRC2
+MOL004848	licochalcone G	甘草	CALML5
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	NOS2
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	F2
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	KCNC2
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	NCOA7
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	AR
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	PPARG
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	F10
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	PTGS2
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	F7
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	VEGFC
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	TOP2A
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	ESR2
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	DPP4
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	MAPK14
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	GSK3B
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	HSP90AB1
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	CDK1
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	CHEK1
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	PRSS1
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	PIM1
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	PNRC2
+MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	甘草	CALML5
+MOL004855	Licoricone	甘草	NOS2
+MOL004855	Licoricone	甘草	F2
+MOL004855	Licoricone	甘草	KCNC2
+MOL004855	Licoricone	甘草	NCOA7
+MOL004855	Licoricone	甘草	AR
+MOL004855	Licoricone	甘草	PPARG
+MOL004855	Licoricone	甘草	F10
+MOL004855	Licoricone	甘草	PTGS2
+MOL004855	Licoricone	甘草	VEGFC
+MOL004855	Licoricone	甘草	TOP2A
+MOL004855	Licoricone	甘草	CHEK1
+MOL004855	Licoricone	甘草	PRSS1
+MOL004855	Licoricone	甘草	PIM1
+MOL004855	Licoricone	甘草	PNRC2
+MOL004855	Licoricone	甘草	CALML5
+MOL004856	Gancaonin A	甘草	NOS2
+MOL004856	Gancaonin A	甘草	F2
+MOL004856	Gancaonin A	甘草	NCOA7
+MOL004856	Gancaonin A	甘草	AR
+MOL004856	Gancaonin A	甘草	SCNN1A
+MOL004856	Gancaonin A	甘草	PPARG
+MOL004856	Gancaonin A	甘草	F10
+MOL004856	Gancaonin A	甘草	PTGS2
+MOL004856	Gancaonin A	甘草	ACHE
+MOL004856	Gancaonin A	甘草	TOP2A
+MOL004856	Gancaonin A	甘草	ESR2
+MOL004856	Gancaonin A	甘草	DPP4
+MOL004856	Gancaonin A	甘草	GSK3B
+MOL004856	Gancaonin A	甘草	HSP90AB1
+MOL004856	Gancaonin A	甘草	CHEK1
+MOL004856	Gancaonin A	甘草	PRSS1
+MOL004856	Gancaonin A	甘草	PIM1
+MOL004856	Gancaonin A	甘草	CCNA2
+MOL004856	Gancaonin A	甘草	PNRC2
+MOL004856	Gancaonin A	甘草	CALML5
+MOL004857	Gancaonin B	甘草	NOS2
+MOL004857	Gancaonin B	甘草	F2
+MOL004857	Gancaonin B	甘草	NCOA7
+MOL004857	Gancaonin B	甘草	AR
+MOL004857	Gancaonin B	甘草	PPARG
+MOL004857	Gancaonin B	甘草	F10
+MOL004857	Gancaonin B	甘草	PTGS2
+MOL004857	Gancaonin B	甘草	F7
+MOL004857	Gancaonin B	甘草	VEGFC
+MOL004857	Gancaonin B	甘草	ADRA1B
+MOL004857	Gancaonin B	甘草	ADRB2
+MOL004857	Gancaonin B	甘草	TOP2A
+MOL004857	Gancaonin B	甘草	ESR2
+MOL004857	Gancaonin B	甘草	DPP4
+MOL004857	Gancaonin B	甘草	GSK3B
+MOL004857	Gancaonin B	甘草	HSP90AB1
+MOL004857	Gancaonin B	甘草	CHEK1
+MOL004857	Gancaonin B	甘草	PRSS1
+MOL004857	Gancaonin B	甘草	PIM1
+MOL004857	Gancaonin B	甘草	CCNA2
+MOL004857	Gancaonin B	甘草	PNRC2
+MOL004857	Gancaonin B	甘草	CALML5
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	NOS2
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	F2
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	NCOA7
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	AR
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	PPARG
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	F10
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	PTGS2
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	PTPN22
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	MAPK14
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	GSK3B
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	HSP90AB1
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	CDK1
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	CHEK1
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	PRSS1
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	PIM1
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	CCNA2
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	PNRC2
+MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	甘草	CALML5
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	NOS2
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	KCNC2
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	NCOA7
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	AR
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	PPARG
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	F10
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	PTGS2
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	TOP2A
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	ESR2
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	DPP4
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	MAPK14
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	GSK3B
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	HSP90AB1
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	CDK1
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	CHEK1
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	PRSS1
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	PIM1
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	CCNA2
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	PNRC2
+MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	甘草	CALML5
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	F2
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	AR
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	SCNN1A
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	PPARG
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	F10
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	PTGS2
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	F7
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	ADRB2
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	DPP4
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	HSP90AB1
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	CDK1
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	CHEK1
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	PRSS1
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	PIM1
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	CCNA2
+MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	甘草	CALML5
+MOL004879	Glycyrin	甘草	NOS2
+MOL004879	Glycyrin	甘草	F2
+MOL004879	Glycyrin	甘草	KCNC2
+MOL004879	Glycyrin	甘草	NCOA7
+MOL004879	Glycyrin	甘草	AR
+MOL004879	Glycyrin	甘草	PPARG
+MOL004879	Glycyrin	甘草	F10
+MOL004879	Glycyrin	甘草	PTGS2
+MOL004879	Glycyrin	甘草	VEGFC
+MOL004879	Glycyrin	甘草	TOP2A
+MOL004879	Glycyrin	甘草	ESR2
+MOL004879	Glycyrin	甘草	DPP4
+MOL004879	Glycyrin	甘草	CHEK1
+MOL004879	Glycyrin	甘草	PRSS1
+MOL004879	Glycyrin	甘草	PIM1
+MOL004879	Glycyrin	甘草	PNRC2
+MOL004879	Glycyrin	甘草	CALML5
+MOL004882	Licocoumarone	甘草	NCOA7
+MOL004882	Licocoumarone	甘草	AR
+MOL004882	Licocoumarone	甘草	ESR2
+MOL004882	Licocoumarone	甘草	GSK3B
+MOL004882	Licocoumarone	甘草	HSP90AB1
+MOL004882	Licocoumarone	甘草	CDK1
+MOL004882	Licocoumarone	甘草	CCNA2
+MOL004883	Licoisoflavone	甘草	NOS2
+MOL004883	Licoisoflavone	甘草	F2
+MOL004883	Licoisoflavone	甘草	NCOA7
+MOL004883	Licoisoflavone	甘草	AR
+MOL004883	Licoisoflavone	甘草	PPARG
+MOL004883	Licoisoflavone	甘草	F10
+MOL004883	Licoisoflavone	甘草	PTGS2
+MOL004883	Licoisoflavone	甘草	VEGFC
+MOL004883	Licoisoflavone	甘草	TOP2A
+MOL004883	Licoisoflavone	甘草	DPP4
+MOL004883	Licoisoflavone	甘草	MAPK14
+MOL004883	Licoisoflavone	甘草	HSP90AB1
+MOL004883	Licoisoflavone	甘草	CDK1
+MOL004883	Licoisoflavone	甘草	CHEK1
+MOL004883	Licoisoflavone	甘草	PRSS1
+MOL004883	Licoisoflavone	甘草	PIM1
+MOL004883	Licoisoflavone	甘草	CCNA2
+MOL004883	Licoisoflavone	甘草	PNRC2
+MOL004883	Licoisoflavone	甘草	CALML5
+MOL004884	Licoisoflavone B	甘草	NOS2
+MOL004884	Licoisoflavone B	甘草	F2
+MOL004884	Licoisoflavone B	甘草	NCOA7
+MOL004884	Licoisoflavone B	甘草	AR
+MOL004884	Licoisoflavone B	甘草	PPARG
+MOL004884	Licoisoflavone B	甘草	F10
+MOL004884	Licoisoflavone B	甘草	PTGS2
+MOL004884	Licoisoflavone B	甘草	ACHE
+MOL004884	Licoisoflavone B	甘草	TOP2A
+MOL004884	Licoisoflavone B	甘草	ESR2
+MOL004884	Licoisoflavone B	甘草	GSK3B
+MOL004884	Licoisoflavone B	甘草	CDK1
+MOL004884	Licoisoflavone B	甘草	CHEK1
+MOL004884	Licoisoflavone B	甘草	PRSS1
+MOL004884	Licoisoflavone B	甘草	PIM1
+MOL004884	Licoisoflavone B	甘草	CCNA2
+MOL004884	Licoisoflavone B	甘草	CALML5
+MOL004885	licoisoflavanone	甘草	NOS2
+MOL004885	licoisoflavanone	甘草	PTGS1
+MOL004885	licoisoflavanone	甘草	NCOA7
+MOL004885	licoisoflavanone	甘草	AR
+MOL004885	licoisoflavanone	甘草	SCNN1A
+MOL004885	licoisoflavanone	甘草	PPARG
+MOL004885	licoisoflavanone	甘草	F10
+MOL004885	licoisoflavanone	甘草	PTGS2
+MOL004885	licoisoflavanone	甘草	F7
+MOL004885	licoisoflavanone	甘草	ACHE
+MOL004885	licoisoflavanone	甘草	TOP2A
+MOL004885	licoisoflavanone	甘草	ESR2
+MOL004885	licoisoflavanone	甘草	GSK3B
+MOL004885	licoisoflavanone	甘草	HSP90AB1
+MOL004885	licoisoflavanone	甘草	CDK1
+MOL004885	licoisoflavanone	甘草	PRSS1
+MOL004885	licoisoflavanone	甘草	PIM1
+MOL004885	licoisoflavanone	甘草	CCNA2
+MOL004885	licoisoflavanone	甘草	CALML5
+MOL004891	shinpterocarpin	甘草	NOS2
+MOL004891	shinpterocarpin	甘草	PTGS1
+MOL004891	shinpterocarpin	甘草	CHRM3
+MOL004891	shinpterocarpin	甘草	KCNC2
+MOL004891	shinpterocarpin	甘草	CHRM1
+MOL004891	shinpterocarpin	甘草	NCOA7
+MOL004891	shinpterocarpin	甘草	AR
+MOL004891	shinpterocarpin	甘草	SCNN1A
+MOL004891	shinpterocarpin	甘草	PPARG
+MOL004891	shinpterocarpin	甘草	PTGS2
+MOL004891	shinpterocarpin	甘草	HTR3A
+MOL004891	shinpterocarpin	甘草	RXRA
+MOL004891	shinpterocarpin	甘草	OPRD1
+MOL004891	shinpterocarpin	甘草	ADRA1B
+MOL004891	shinpterocarpin	甘草	ADRB2
+MOL004891	shinpterocarpin	甘草	ADRA1D
+MOL004891	shinpterocarpin	甘草	OPRM1
+MOL004891	shinpterocarpin	甘草	ESR2
+MOL004891	shinpterocarpin	甘草	MAPK14
+MOL004891	shinpterocarpin	甘草	GSK3B
+MOL004891	shinpterocarpin	甘草	CDK1
+MOL004891	shinpterocarpin	甘草	PIK3CG
+MOL004891	shinpterocarpin	甘草	CHRNA7
+MOL004891	shinpterocarpin	甘草	PRKACA
+MOL004891	shinpterocarpin	甘草	RXRB
+MOL004891	shinpterocarpin	甘草	PRSS1
+MOL004891	shinpterocarpin	甘草	PIM1
+MOL004891	shinpterocarpin	甘草	CCNA2
+MOL004891	shinpterocarpin	甘草	CALML5
+MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	甘草	NCOA7
+MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	甘草	AR
+MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	甘草	PPARG
+MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	甘草	PTGS2
+MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	甘草	MAPK14
+MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	甘草	GSK3B
+MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	甘草	HSP90AB1
+MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	甘草	CDK1
+MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	甘草	PIM1
+MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	甘草	CCNA2
+MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	甘草	PNRC2
+MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	甘草	CALML5
+MOL004903	liquiritin	甘草	F10
+MOL004903	liquiritin	甘草	F7
+MOL004903	liquiritin	甘草	CALML5
+MOL004903	liquiritin	甘草	PTGS2
+MOL004903	liquiritin	甘草	VEGFC
+MOL004904	licopyranocoumarin	甘草	NOS2
+MOL004904	licopyranocoumarin	甘草	F2
+MOL004904	licopyranocoumarin	甘草	NCOA7
+MOL004904	licopyranocoumarin	甘草	AR
+MOL004904	licopyranocoumarin	甘草	PPARG
+MOL004904	licopyranocoumarin	甘草	F10
+MOL004904	licopyranocoumarin	甘草	PTGS2
+MOL004904	licopyranocoumarin	甘草	F7
+MOL004904	licopyranocoumarin	甘草	VEGFC
+MOL004904	licopyranocoumarin	甘草	ACHE
+MOL004904	licopyranocoumarin	甘草	TOP2A
+MOL004904	licopyranocoumarin	甘草	CDK1
+MOL004904	licopyranocoumarin	甘草	PRSS1
+MOL004904	licopyranocoumarin	甘草	PIM1
+MOL004904	licopyranocoumarin	甘草	CCNA2
+MOL004904	licopyranocoumarin	甘草	CALML5
+MOL004907	Glyzaglabrin	甘草	NOS2
+MOL004907	Glyzaglabrin	甘草	PTGS1
+MOL004907	Glyzaglabrin	甘草	NCOA7
+MOL004907	Glyzaglabrin	甘草	AR
+MOL004907	Glyzaglabrin	甘草	PPARG
+MOL004907	Glyzaglabrin	甘草	PTGS2
+MOL004907	Glyzaglabrin	甘草	ESR2
+MOL004907	Glyzaglabrin	甘草	DPP4
+MOL004907	Glyzaglabrin	甘草	MAPK14
+MOL004907	Glyzaglabrin	甘草	GSK3B
+MOL004907	Glyzaglabrin	甘草	HSP90AB1
+MOL004907	Glyzaglabrin	甘草	CDK1
+MOL004907	Glyzaglabrin	甘草	PIK3CG
+MOL004907	Glyzaglabrin	甘草	CHEK1
+MOL004907	Glyzaglabrin	甘草	PRKACA
+MOL004907	Glyzaglabrin	甘草	PRSS1
+MOL004907	Glyzaglabrin	甘草	PIM1
+MOL004907	Glyzaglabrin	甘草	CCNA2
+MOL004908	Glabridin	甘草	NOS2
+MOL004908	Glabridin	甘草	CHRM1
+MOL004908	Glabridin	甘草	NCOA7
+MOL004908	Glabridin	甘草	AR
+MOL004908	Glabridin	甘草	SCNN1A
+MOL004908	Glabridin	甘草	PPARG
+MOL004908	Glabridin	甘草	PTGS2
+MOL004908	Glabridin	甘草	RXRA
+MOL004908	Glabridin	甘草	ACHE
+MOL004908	Glabridin	甘草	ADRA1B
+MOL004908	Glabridin	甘草	ADRB2
+MOL004908	Glabridin	甘草	ESR2
+MOL004908	Glabridin	甘草	MAPK14
+MOL004908	Glabridin	甘草	GSK3B
+MOL004908	Glabridin	甘草	CDK1
+MOL004908	Glabridin	甘草	CHEK1
+MOL004908	Glabridin	甘草	PRKACA
+MOL004908	Glabridin	甘草	RXRB
+MOL004908	Glabridin	甘草	IGHG1
+MOL004908	Glabridin	甘草	PRSS1
+MOL004908	Glabridin	甘草	PIM1
+MOL004908	Glabridin	甘草	CCNA2
+MOL004908	Glabridin	甘草	PNRC2
+MOL004908	Glabridin	甘草	CALML5
+MOL004910	Glabranin	甘草	NOS2
+MOL004910	Glabranin	甘草	PTGS1
+MOL004910	Glabranin	甘草	NCOA7
+MOL004910	Glabranin	甘草	SCNN1A
+MOL004910	Glabranin	甘草	F10
+MOL004910	Glabranin	甘草	PTGS2
+MOL004910	Glabranin	甘草	NOS3
+MOL004910	Glabranin	甘草	PDE3A
+MOL004910	Glabranin	甘草	HSP90AB1
+MOL004910	Glabranin	甘草	PRKACA
+MOL004910	Glabranin	甘草	CALML5
+MOL004911	Glabrene	甘草	NOS2
+MOL004911	Glabrene	甘草	PTGS1
+MOL004911	Glabrene	甘草	NCOA7
+MOL004911	Glabrene	甘草	AR
+MOL004911	Glabrene	甘草	SCNN1A
+MOL004911	Glabrene	甘草	PPARG
+MOL004911	Glabrene	甘草	F10
+MOL004911	Glabrene	甘草	PTGS2
+MOL004911	Glabrene	甘草	RXRA
+MOL004911	Glabrene	甘草	ADRB2
+MOL004911	Glabrene	甘草	ESR2
+MOL004911	Glabrene	甘草	MAPK14
+MOL004911	Glabrene	甘草	GSK3B
+MOL004911	Glabrene	甘草	HSP90AB1
+MOL004911	Glabrene	甘草	CDK1
+MOL004911	Glabrene	甘草	PRSS1
+MOL004911	Glabrene	甘草	PIM1
+MOL004911	Glabrene	甘草	PNRC2
+MOL004911	Glabrene	甘草	CALML5
+MOL004912	Glabrone	甘草	NOS2
+MOL004912	Glabrone	甘草	PTGS1
+MOL004912	Glabrone	甘草	F2
+MOL004912	Glabrone	甘草	NCOA7
+MOL004912	Glabrone	甘草	AR
+MOL004912	Glabrone	甘草	SCNN1A
+MOL004912	Glabrone	甘草	PPARG
+MOL004912	Glabrone	甘草	F10
+MOL004912	Glabrone	甘草	PTGS2
+MOL004912	Glabrone	甘草	RXRA
+MOL004912	Glabrone	甘草	ACHE
+MOL004912	Glabrone	甘草	ESR2
+MOL004912	Glabrone	甘草	DPP4
+MOL004912	Glabrone	甘草	MAPK14
+MOL004912	Glabrone	甘草	GSK3B
+MOL004912	Glabrone	甘草	CDK1
+MOL004912	Glabrone	甘草	CHEK1
+MOL004912	Glabrone	甘草	PRSS1
+MOL004912	Glabrone	甘草	PIM1
+MOL004912	Glabrone	甘草	CCNA2
+MOL004912	Glabrone	甘草	CALML5
+MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	甘草	NCOA7
+MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	甘草	PPARG
+MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	甘草	ESR2
+MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	甘草	MAPK14
+MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	甘草	GSK3B
+MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	甘草	HSP90AB1
+MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	甘草	CDK1
+MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	甘草	CHEK1
+MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	甘草	PRKACA
+MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	甘草	CCNA2
+MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	甘草	NCOA7
+MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	甘草	AR
+MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	甘草	PPARG
+MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	甘草	MAPK14
+MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	甘草	GSK3B
+MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	甘草	HSP90AB1
+MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	甘草	CDK1
+MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	甘草	CHEK1
+MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	甘草	PRKACA
+MOL004915	Eurycarpin A	甘草	NOS2
+MOL004915	Eurycarpin A	甘草	F2
+MOL004915	Eurycarpin A	甘草	NCOA7
+MOL004915	Eurycarpin A	甘草	AR
+MOL004915	Eurycarpin A	甘草	SCNN1A
+MOL004915	Eurycarpin A	甘草	PPARG
+MOL004915	Eurycarpin A	甘草	F10
+MOL004915	Eurycarpin A	甘草	PTGS2
+MOL004915	Eurycarpin A	甘草	ESR2
+MOL004915	Eurycarpin A	甘草	DPP4
+MOL004915	Eurycarpin A	甘草	MAPK14
+MOL004915	Eurycarpin A	甘草	GSK3B
+MOL004915	Eurycarpin A	甘草	HSP90AB1
+MOL004915	Eurycarpin A	甘草	CDK1
+MOL004915	Eurycarpin A	甘草	CHEK1
+MOL004915	Eurycarpin A	甘草	PRSS1
+MOL004915	Eurycarpin A	甘草	PIM1
+MOL004915	Eurycarpin A	甘草	CCNA2
+MOL004915	Eurycarpin A	甘草	CALML5
+MOL004924	(-)-Medicocarpin	甘草	PTGS2
+MOL004924	(-)-Medicocarpin	甘草	ACHE
+MOL004935	Sigmoidin-B	甘草	NCOA7
+MOL004935	Sigmoidin-B	甘草	F10
+MOL004935	Sigmoidin-B	甘草	PTGS2
+MOL004935	Sigmoidin-B	甘草	VEGFC
+MOL004935	Sigmoidin-B	甘草	HSP90AB1
+MOL004935	Sigmoidin-B	甘草	CALML5
+MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	甘草	PTGS1
+MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	甘草	NCOA7
+MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	甘草	PTGS2
+MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	甘草	RXRA
+MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	甘草	PDE3A
+MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	甘草	ADRB2
+MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	甘草	HSP90AB1
+MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	甘草	PIK3CG
+MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	甘草	LACTB
+MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	甘草	PRKACA
+MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	甘草	PKIA
+MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	甘草	CALML5
+MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	甘草	GABRA1
+MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	甘草	SLC6A4
+MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	甘草	NOS2
+MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	甘草	PTGS1
+MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	甘草	NCOA7
+MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	甘草	SCNN1A
+MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	甘草	F10
+MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	甘草	PTGS2
+MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	甘草	PDE3A
+MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	甘草	ADRA1B
+MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	甘草	ADRB2
+MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	甘草	ESR2
+MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	甘草	HSP90AB1
+MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	甘草	CALML5
+MOL004948	Isoglycyrol	甘草	NOS2
+MOL004948	Isoglycyrol	甘草	NCOA7
+MOL004948	Isoglycyrol	甘草	AR
+MOL004948	Isoglycyrol	甘草	PTGS2
+MOL004948	Isoglycyrol	甘草	DPP4
+MOL004948	Isoglycyrol	甘草	GSK3B
+MOL004948	Isoglycyrol	甘草	PIM1
+MOL004949	Isolicoflavonol	甘草	NOS2
+MOL004949	Isolicoflavonol	甘草	F2
+MOL004949	Isolicoflavonol	甘草	NCOA7
+MOL004949	Isolicoflavonol	甘草	AR
+MOL004949	Isolicoflavonol	甘草	PPARG
+MOL004949	Isolicoflavonol	甘草	F10
+MOL004949	Isolicoflavonol	甘草	PTGS2
+MOL004949	Isolicoflavonol	甘草	GSK3B
+MOL004949	Isolicoflavonol	甘草	HSP90AB1
+MOL004949	Isolicoflavonol	甘草	CDK1
+MOL004949	Isolicoflavonol	甘草	PRSS1
+MOL004949	Isolicoflavonol	甘草	PIM1
+MOL004949	Isolicoflavonol	甘草	CCNA2
+MOL004949	Isolicoflavonol	甘草	PNRC2
+MOL004949	Isolicoflavonol	甘草	CALML5
+MOL004957	HMO	甘草	NOS2
+MOL004957	HMO	甘草	PTGS1
+MOL004957	HMO	甘草	CHRM1
+MOL004957	HMO	甘草	NCOA7
+MOL004957	HMO	甘草	AR
+MOL004957	HMO	甘草	SCNN1A
+MOL004957	HMO	甘草	PPARG
+MOL004957	HMO	甘草	PTGS2
+MOL004957	HMO	甘草	RXRA
+MOL004957	HMO	甘草	PDE3A
+MOL004957	HMO	甘草	SLC6A3
+MOL004957	HMO	甘草	ADRB2
+MOL004957	HMO	甘草	SLC6A4
+MOL004957	HMO	甘草	ESR2
+MOL004957	HMO	甘草	DPP4
+MOL004957	HMO	甘草	MAPK14
+MOL004957	HMO	甘草	GSK3B
+MOL004957	HMO	甘草	CDK1
+MOL004957	HMO	甘草	CHEK1
+MOL004957	HMO	甘草	PRKACA
+MOL004957	HMO	甘草	IGHG1
+MOL004957	HMO	甘草	PRSS1
+MOL004957	HMO	甘草	PIM1
+MOL004957	HMO	甘草	CCNA2
+MOL004957	HMO	甘草	PKIA
+MOL004957	HMO	甘草	CALML5
+MOL004959	1-Methoxyphaseollidin	甘草	NOS2
+MOL004959	1-Methoxyphaseollidin	甘草	PTGS1
+MOL004959	1-Methoxyphaseollidin	甘草	F2
+MOL004959	1-Methoxyphaseollidin	甘草	KCNC2
+MOL004959	1-Methoxyphaseollidin	甘草	NCOA7
+MOL004959	1-Methoxyphaseollidin	甘草	AR
+MOL004959	1-Methoxyphaseollidin	甘草	SCNN1A
+MOL004959	1-Methoxyphaseollidin	甘草	PPARG
+MOL004959	1-Methoxyphaseollidin	甘草	F10
+MOL004959	1-Methoxyphaseollidin	甘草	PTGS2
+MOL004959	1-Methoxyphaseollidin	甘草	NOS3
+MOL004959	1-Methoxyphaseollidin	甘草	VEGFC
+MOL004959	1-Methoxyphaseollidin	甘草	RXRA
+MOL004959	1-Methoxyphaseollidin	甘草	ADRA1B
+MOL004959	1-Methoxyphaseollidin	甘草	ADRB2
+MOL004959	1-Methoxyphaseollidin	甘草	ADRA1D
+MOL004959	1-Methoxyphaseollidin	甘草	TOP2A
+MOL004959	1-Methoxyphaseollidin	甘草	ESR2
+MOL004959	1-Methoxyphaseollidin	甘草	MAPK14
+MOL004959	1-Methoxyphaseollidin	甘草	GSK3B
+MOL004959	1-Methoxyphaseollidin	甘草	HSP90AB1
+MOL004959	1-Methoxyphaseollidin	甘草	CDK1
+MOL004959	1-Methoxyphaseollidin	甘草	PIK3CG
+MOL004959	1-Methoxyphaseollidin	甘草	PRSS1
+MOL004959	1-Methoxyphaseollidin	甘草	PIM1
+MOL004959	1-Methoxyphaseollidin	甘草	CCNA2
+MOL004959	1-Methoxyphaseollidin	甘草	PNRC2
+MOL004959	1-Methoxyphaseollidin	甘草	CALML5
+MOL004961	Quercetin der.	甘草	NOS2
+MOL004961	Quercetin der.	甘草	PTGS1
+MOL004961	Quercetin der.	甘草	NCOA7
+MOL004961	Quercetin der.	甘草	AR
+MOL004961	Quercetin der.	甘草	SCNN1A
+MOL004961	Quercetin der.	甘草	PPARG
+MOL004961	Quercetin der.	甘草	PTGS2
+MOL004961	Quercetin der.	甘草	PTPN22
+MOL004961	Quercetin der.	甘草	ESR2
+MOL004961	Quercetin der.	甘草	DPP4
+MOL004961	Quercetin der.	甘草	MAPK14
+MOL004961	Quercetin der.	甘草	GSK3B
+MOL004961	Quercetin der.	甘草	HSP90AB1
+MOL004961	Quercetin der.	甘草	CDK1
+MOL004961	Quercetin der.	甘草	PRSS1
+MOL004961	Quercetin der.	甘草	PNRC2
+MOL004961	Quercetin der.	甘草	CALML5
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	NOS2
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	PTGS1
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	KCNC2
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	NCOA7
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	AR
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	SCNN1A
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	PPARG
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	F10
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	PTGS2
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	F7
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	VEGFC
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	ADRA1B
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	ADRB2
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	TOP2A
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	ESR2
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	MAPK14
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	GSK3B
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	HSP90AB1
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	CDK1
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	CHEK1
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	PRKACA
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	PRSS1
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	PIM1
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	CCNA2
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	PNRC2
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	KCNU1
+MOL004966	3'-Hydroxy-4'-O-Methylglabridin	甘草	CALML5
+MOL000497	licochalcone a	甘草	NOS2
+MOL000497	licochalcone a	甘草	PTGS1
+MOL000497	licochalcone a	甘草	CHRM1
+MOL000497	licochalcone a	甘草	NCOA7
+MOL000497	licochalcone a	甘草	AR
+MOL000497	licochalcone a	甘草	SCNN1A
+MOL000497	licochalcone a	甘草	PPARG
+MOL000497	licochalcone a	甘草	F10
+MOL000497	licochalcone a	甘草	PTGS2
+MOL000497	licochalcone a	甘草	CA2
+MOL000497	licochalcone a	甘草	ADRA1B
+MOL000497	licochalcone a	甘草	SLC6A3
+MOL000497	licochalcone a	甘草	ESR2
+MOL000497	licochalcone a	甘草	MAPK14
+MOL000497	licochalcone a	甘草	GSK3B
+MOL000497	licochalcone a	甘草	HSP90AB1
+MOL000497	licochalcone a	甘草	CDK1
+MOL000497	licochalcone a	甘草	CHEK1
+MOL000497	licochalcone a	甘草	PIM1
+MOL000497	licochalcone a	甘草	CCNA2
+MOL000497	licochalcone a	甘草	CALML5
+MOL000497	licochalcone a	甘草	ADRB2
+MOL000497	licochalcone a	甘草	PNRC2
+MOL000497	licochalcone a	甘草	RELA
+MOL000497	licochalcone a	甘草	STAT5B
+MOL000497	licochalcone a	甘草	CCND3
+MOL000497	licochalcone a	甘草	BCL2
+MOL000497	licochalcone a	甘草	EIF2A
+MOL000497	licochalcone a	甘草	MAP3K7
+MOL000497	licochalcone a	甘草	RBL1
+MOL000497	licochalcone a	甘草	CDK2
+MOL000497	licochalcone a	甘草	FOSL2
+MOL004974	3'-Methoxyglabridin	甘草	NOS2
+MOL004974	3'-Methoxyglabridin	甘草	PTGS1
+MOL004974	3'-Methoxyglabridin	甘草	KCNC2
+MOL004974	3'-Methoxyglabridin	甘草	NCOA7
+MOL004974	3'-Methoxyglabridin	甘草	AR
+MOL004974	3'-Methoxyglabridin	甘草	SCNN1A
+MOL004974	3'-Methoxyglabridin	甘草	PPARG
+MOL004974	3'-Methoxyglabridin	甘草	F10
+MOL004974	3'-Methoxyglabridin	甘草	PTGS2
+MOL004974	3'-Methoxyglabridin	甘草	F7
+MOL004974	3'-Methoxyglabridin	甘草	RXRA
+MOL004974	3'-Methoxyglabridin	甘草	ACHE
+MOL004974	3'-Methoxyglabridin	甘草	ADRA1B
+MOL004974	3'-Methoxyglabridin	甘草	ADRB2
+MOL004974	3'-Methoxyglabridin	甘草	TOP2A
+MOL004974	3'-Methoxyglabridin	甘草	ESR2
+MOL004974	3'-Methoxyglabridin	甘草	MAPK14
+MOL004974	3'-Methoxyglabridin	甘草	GSK3B
+MOL004974	3'-Methoxyglabridin	甘草	HSP90AB1
+MOL004974	3'-Methoxyglabridin	甘草	CDK1
+MOL004974	3'-Methoxyglabridin	甘草	CHEK1
+MOL004974	3'-Methoxyglabridin	甘草	PRSS1
+MOL004974	3'-Methoxyglabridin	甘草	PIM1
+MOL004974	3'-Methoxyglabridin	甘草	CCNA2
+MOL004974	3'-Methoxyglabridin	甘草	PNRC2
+MOL004974	3'-Methoxyglabridin	甘草	KCNU1
+MOL004974	3'-Methoxyglabridin	甘草	CALML5
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	NOS2
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	PTGS1
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	CHRM3
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	KCNC2
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	CHRM1
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	NCOA7
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	AR
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	SCNN1A
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	PPARG
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	F10
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	PTGS2
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	NOS3
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	RXRA
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	ACHE
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	ADRA1B
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	SLC6A3
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	ADRB2
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	ESR2
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	MAPK14
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	GSK3B
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	CDK1
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	CHEK1
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	PRKACA
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	RXRB
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	PRSS1
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	PIM1
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	CCNA2
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	PNRC2
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	KCNU1
+MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	甘草	CALML5
+MOL004980	Inflacoumarin A	甘草	F2
+MOL004980	Inflacoumarin A	甘草	NCOA7
+MOL004980	Inflacoumarin A	甘草	AR
+MOL004980	Inflacoumarin A	甘草	PPARG
+MOL004980	Inflacoumarin A	甘草	F10
+MOL004980	Inflacoumarin A	甘草	PTGS2
+MOL004980	Inflacoumarin A	甘草	ADRB2
+MOL004980	Inflacoumarin A	甘草	DPP4
+MOL004980	Inflacoumarin A	甘草	HSP90AB1
+MOL004980	Inflacoumarin A	甘草	PRSS1
+MOL004980	Inflacoumarin A	甘草	PIM1
+MOL004980	Inflacoumarin A	甘草	PNRC2
+MOL004980	Inflacoumarin A	甘草	CALML5
+MOL004980	Inflacoumarin A	甘草	PTGS1
+MOL004980	Inflacoumarin A	甘草	SCNN1A
+MOL004985	icos-5-enoic acid	甘草	PNRC2
+MOL004988	Kanzonol F	甘草	NCOA7
+MOL004988	Kanzonol F	甘草	AR
+MOL004988	Kanzonol F	甘草	F10
+MOL004988	Kanzonol F	甘草	PTGS2
+MOL004988	Kanzonol F	甘草	ESR2
+MOL004988	Kanzonol F	甘草	PIM1
+MOL004988	Kanzonol F	甘草	PNRC2
+MOL004988	Kanzonol F	甘草	CALML5
+MOL004989	6-prenylated eriodictyol	甘草	NOS2
+MOL004989	6-prenylated eriodictyol	甘草	NCOA7
+MOL004989	6-prenylated eriodictyol	甘草	SCNN1A
+MOL004989	6-prenylated eriodictyol	甘草	F10
+MOL004989	6-prenylated eriodictyol	甘草	PTGS2
+MOL004989	6-prenylated eriodictyol	甘草	F7
+MOL004989	6-prenylated eriodictyol	甘草	HSP90AB1
+MOL004989	6-prenylated eriodictyol	甘草	CALML5
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	NOS2
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	PTGS1
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	NCOA7
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	AR
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	PPARG
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	PTGS2
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	ESR2
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	DPP4
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	MAPK14
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	GSK3B
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	HSP90AB1
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	CDK1
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	CHEK1
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	PRKACA
+MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	甘草	PIM1
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	NOS2
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	PTGS1
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	F2
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	NCOA7
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	AR
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	SCNN1A
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	PPARG
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	PTGS2
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	NOS3
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	RXRA
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	ACHE
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	PDE3A
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	ADRA1B
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	ADRB2
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	ADRA1D
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	GABRA1
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	DPP4
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	MAPK14
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	GSK3B
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	HSP90AB1
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	CDK1
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	CHEK1
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	PRSS1
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	PNRC2
+MOL004991	7-Acetoxy-2-methylisoflavone	甘草	CALML5
+MOL004993	8-prenylated eriodictyol	甘草	NCOA7
+MOL004993	8-prenylated eriodictyol	甘草	SCNN1A
+MOL004993	8-prenylated eriodictyol	甘草	F10
+MOL004993	8-prenylated eriodictyol	甘草	PTGS2
+MOL004993	8-prenylated eriodictyol	甘草	F7
+MOL004993	8-prenylated eriodictyol	甘草	HSP90AB1
+MOL004993	8-prenylated eriodictyol	甘草	CALML5
+MOL004996	gadelaidic acid	甘草	PNRC2
+MOL000500	Vestitol	甘草	NOS2
+MOL000500	Vestitol	甘草	PTGS1
+MOL000500	Vestitol	甘草	CHRM1
+MOL000500	Vestitol	甘草	NCOA7
+MOL000500	Vestitol	甘草	AR
+MOL000500	Vestitol	甘草	SCNN1A
+MOL000500	Vestitol	甘草	PPARG
+MOL000500	Vestitol	甘草	PTGS2
+MOL000500	Vestitol	甘草	CHRM4
+MOL000500	Vestitol	甘草	RXRA
+MOL000500	Vestitol	甘草	PDE3A
+MOL000500	Vestitol	甘草	HTR2A
+MOL000500	Vestitol	甘草	ADRA1A
+MOL000500	Vestitol	甘草	ADRA1B
+MOL000500	Vestitol	甘草	SLC6A3
+MOL000500	Vestitol	甘草	ADRB2
+MOL000500	Vestitol	甘草	SLC6A4
+MOL000500	Vestitol	甘草	ESR2
+MOL000500	Vestitol	甘草	DPP4
+MOL000500	Vestitol	甘草	MAPK14
+MOL000500	Vestitol	甘草	GSK3B
+MOL000500	Vestitol	甘草	HSP90AB1
+MOL000500	Vestitol	甘草	CDK1
+MOL000500	Vestitol	甘草	CHEK1
+MOL000500	Vestitol	甘草	PRKACA
+MOL000500	Vestitol	甘草	PRSS1
+MOL000500	Vestitol	甘草	PIM1
+MOL000500	Vestitol	甘草	CCNA2
+MOL000500	Vestitol	甘草	PKIA
+MOL000500	Vestitol	甘草	CALML5
+MOL005000	Gancaonin G	甘草	NOS2
+MOL005000	Gancaonin G	甘草	F2
+MOL005000	Gancaonin G	甘草	NCOA7
+MOL005000	Gancaonin G	甘草	AR
+MOL005000	Gancaonin G	甘草	PPARG
+MOL005000	Gancaonin G	甘草	F10
+MOL005000	Gancaonin G	甘草	PTGS2
+MOL005000	Gancaonin G	甘草	NOS3
+MOL005000	Gancaonin G	甘草	TOP2A
+MOL005000	Gancaonin G	甘草	ESR2
+MOL005000	Gancaonin G	甘草	DPP4
+MOL005000	Gancaonin G	甘草	MAPK14
+MOL005000	Gancaonin G	甘草	GSK3B
+MOL005000	Gancaonin G	甘草	HSP90AB1
+MOL005000	Gancaonin G	甘草	CHEK1
+MOL005000	Gancaonin G	甘草	PRSS1
+MOL005000	Gancaonin G	甘草	PIM1
+MOL005000	Gancaonin G	甘草	CCNA2
+MOL005000	Gancaonin G	甘草	PNRC2
+MOL005000	Gancaonin G	甘草	CALML5
+MOL005001	Gancaonin H	甘草	NCOA7
+MOL005001	Gancaonin H	甘草	AR
+MOL005001	Gancaonin H	甘草	F10
+MOL005001	Gancaonin H	甘草	PTGS2
+MOL005001	Gancaonin H	甘草	VEGFC
+MOL005001	Gancaonin H	甘草	TOP2A
+MOL005001	Gancaonin H	甘草	HSP90AB1
+MOL005001	Gancaonin H	甘草	PRSS1
+MOL005001	Gancaonin H	甘草	PIM1
+MOL005001	Gancaonin H	甘草	CCNA2
+MOL005001	Gancaonin H	甘草	PNRC2
+MOL005001	Gancaonin H	甘草	CALML5
+MOL005003	Licoagrocarpin	甘草	NOS2
+MOL005003	Licoagrocarpin	甘草	PTGS1
+MOL005003	Licoagrocarpin	甘草	CHRM3
+MOL005003	Licoagrocarpin	甘草	F2
+MOL005003	Licoagrocarpin	甘草	KCNC2
+MOL005003	Licoagrocarpin	甘草	CHRM1
+MOL005003	Licoagrocarpin	甘草	NCOA7
+MOL005003	Licoagrocarpin	甘草	AR
+MOL005003	Licoagrocarpin	甘草	SCNN1A
+MOL005003	Licoagrocarpin	甘草	PPARG
+MOL005003	Licoagrocarpin	甘草	F10
+MOL005003	Licoagrocarpin	甘草	CHRM5
+MOL005003	Licoagrocarpin	甘草	PTGS2
+MOL005003	Licoagrocarpin	甘草	NOS3
+MOL005003	Licoagrocarpin	甘草	RXRA
+MOL005003	Licoagrocarpin	甘草	ACHE
+MOL005003	Licoagrocarpin	甘草	ADRA1B
+MOL005003	Licoagrocarpin	甘草	ADRB2
+MOL005003	Licoagrocarpin	甘草	ESR2
+MOL005003	Licoagrocarpin	甘草	MAPK14
+MOL005003	Licoagrocarpin	甘草	GSK3B
+MOL005003	Licoagrocarpin	甘草	HSP90AB1
+MOL005003	Licoagrocarpin	甘草	CDK1
+MOL005003	Licoagrocarpin	甘草	RXRB
+MOL005003	Licoagrocarpin	甘草	PRSS1
+MOL005003	Licoagrocarpin	甘草	PIM1
+MOL005003	Licoagrocarpin	甘草	CCNA2
+MOL005003	Licoagrocarpin	甘草	PNRC2
+MOL005003	Licoagrocarpin	甘草	CALML5
+MOL005007	Glyasperins M	甘草	NOS2
+MOL005007	Glyasperins M	甘草	PTGS1
+MOL005007	Glyasperins M	甘草	KCNC2
+MOL005007	Glyasperins M	甘草	NCOA7
+MOL005007	Glyasperins M	甘草	AR
+MOL005007	Glyasperins M	甘草	SCNN1A
+MOL005007	Glyasperins M	甘草	PPARG
+MOL005007	Glyasperins M	甘草	F10
+MOL005007	Glyasperins M	甘草	PTGS2
+MOL005007	Glyasperins M	甘草	F7
+MOL005007	Glyasperins M	甘草	VEGFC
+MOL005007	Glyasperins M	甘草	ACHE
+MOL005007	Glyasperins M	甘草	TOP2A
+MOL005007	Glyasperins M	甘草	ESR2
+MOL005007	Glyasperins M	甘草	PPARD
+MOL005007	Glyasperins M	甘草	GSK3B
+MOL005007	Glyasperins M	甘草	HSP90AB1
+MOL005007	Glyasperins M	甘草	CDK1
+MOL005007	Glyasperins M	甘草	PRKACA
+MOL005007	Glyasperins M	甘草	PRSS1
+MOL005007	Glyasperins M	甘草	PIM1
+MOL005007	Glyasperins M	甘草	CCNA2
+MOL005007	Glyasperins M	甘草	PNRC2
+MOL005007	Glyasperins M	甘草	KCNU1
+MOL005007	Glyasperins M	甘草	CALML5
+MOL005008	Glycyrrhiza flavonol A	甘草	NOS2
+MOL005008	Glycyrrhiza flavonol A	甘草	NCOA7
+MOL005008	Glycyrrhiza flavonol A	甘草	AR
+MOL005008	Glycyrrhiza flavonol A	甘草	F10
+MOL005008	Glycyrrhiza flavonol A	甘草	PTGS2
+MOL005008	Glycyrrhiza flavonol A	甘草	F7
+MOL005008	Glycyrrhiza flavonol A	甘草	ACHE
+MOL005008	Glycyrrhiza flavonol A	甘草	TOP2A
+MOL005008	Glycyrrhiza flavonol A	甘草	ESR2
+MOL005008	Glycyrrhiza flavonol A	甘草	DPP4
+MOL005008	Glycyrrhiza flavonol A	甘草	GSK3B
+MOL005008	Glycyrrhiza flavonol A	甘草	HSP90AB1
+MOL005008	Glycyrrhiza flavonol A	甘草	CDK1
+MOL005008	Glycyrrhiza flavonol A	甘草	PRSS1
+MOL005008	Glycyrrhiza flavonol A	甘草	PIM1
+MOL005008	Glycyrrhiza flavonol A	甘草	CCNA2
+MOL005008	Glycyrrhiza flavonol A	甘草	CALML5
+MOL005012	Licoagroisoflavone	甘草	NOS2
+MOL005012	Licoagroisoflavone	甘草	F2
+MOL005012	Licoagroisoflavone	甘草	NCOA7
+MOL005012	Licoagroisoflavone	甘草	AR
+MOL005012	Licoagroisoflavone	甘草	SCNN1A
+MOL005012	Licoagroisoflavone	甘草	PPARG
+MOL005012	Licoagroisoflavone	甘草	F10
+MOL005012	Licoagroisoflavone	甘草	PTGS2
+MOL005012	Licoagroisoflavone	甘草	ESR2
+MOL005012	Licoagroisoflavone	甘草	DPP4
+MOL005012	Licoagroisoflavone	甘草	MAPK14
+MOL005012	Licoagroisoflavone	甘草	GSK3B
+MOL005012	Licoagroisoflavone	甘草	CDK1
+MOL005012	Licoagroisoflavone	甘草	CHEK1
+MOL005012	Licoagroisoflavone	甘草	PRSS1
+MOL005012	Licoagroisoflavone	甘草	PIM1
+MOL005012	Licoagroisoflavone	甘草	CCNA2
+MOL005012	Licoagroisoflavone	甘草	CALML5
+MOL005016	Odoratin	甘草	NOS2
+MOL005016	Odoratin	甘草	PTGS1
+MOL005016	Odoratin	甘草	NCOA7
+MOL005016	Odoratin	甘草	AR
+MOL005016	Odoratin	甘草	SCNN1A
+MOL005016	Odoratin	甘草	PPARG
+MOL005016	Odoratin	甘草	PTGS2
+MOL005016	Odoratin	甘草	RXRA
+MOL005016	Odoratin	甘草	ESR2
+MOL005016	Odoratin	甘草	DPP4
+MOL005016	Odoratin	甘草	MAPK14
+MOL005016	Odoratin	甘草	GSK3B
+MOL005016	Odoratin	甘草	HSP90AB1
+MOL005016	Odoratin	甘草	CDK1
+MOL005016	Odoratin	甘草	CHEK1
+MOL005016	Odoratin	甘草	PRSS1
+MOL005016	Odoratin	甘草	PIM1
+MOL005016	Odoratin	甘草	CCNA2
+MOL005016	Odoratin	甘草	PNRC2
+MOL005016	Odoratin	甘草	CALML5
+MOL005017	Phaseol	甘草	F2
+MOL005017	Phaseol	甘草	NCOA7
+MOL005017	Phaseol	甘草	AR
+MOL005017	Phaseol	甘草	PPARG
+MOL005017	Phaseol	甘草	PTGS2
+MOL005017	Phaseol	甘草	VEGFC
+MOL005017	Phaseol	甘草	MAPK14
+MOL005017	Phaseol	甘草	GSK3B
+MOL005017	Phaseol	甘草	HSP90AB1
+MOL005017	Phaseol	甘草	CDK1
+MOL005017	Phaseol	甘草	CHEK1
+MOL005017	Phaseol	甘草	PRKACA
+MOL005017	Phaseol	甘草	PIM1
+MOL005017	Phaseol	甘草	CCNA2
+MOL005018	Xambioona	甘草	NOS2
+MOL005018	Xambioona	甘草	NCOA7
+MOL005018	Xambioona	甘草	F10
+MOL005018	Xambioona	甘草	PTGS2
+MOL005018	Xambioona	甘草	ESR2
+MOL005018	Xambioona	甘草	PIM1
+MOL005018	Xambioona	甘草	PNRC2
+MOL005018	Xambioona	甘草	CALML5
+MOL005020	dehydroglyasperins C	甘草	NOS2
+MOL005020	dehydroglyasperins C	甘草	NCOA7
+MOL005020	dehydroglyasperins C	甘草	AR
+MOL005020	dehydroglyasperins C	甘草	SCNN1A
+MOL005020	dehydroglyasperins C	甘草	PPARG
+MOL005020	dehydroglyasperins C	甘草	F10
+MOL005020	dehydroglyasperins C	甘草	PTGS2
+MOL005020	dehydroglyasperins C	甘草	ADRB2
+MOL005020	dehydroglyasperins C	甘草	ESR2
+MOL005020	dehydroglyasperins C	甘草	MAPK14
+MOL005020	dehydroglyasperins C	甘草	HSP90AB1
+MOL005020	dehydroglyasperins C	甘草	CDK1
+MOL005020	dehydroglyasperins C	甘草	CHEK1
+MOL005020	dehydroglyasperins C	甘草	PRSS1
+MOL005020	dehydroglyasperins C	甘草	PIM1
+MOL005020	dehydroglyasperins C	甘草	CCNA2
+MOL005020	dehydroglyasperins C	甘草	PNRC2
+MOL005020	dehydroglyasperins C	甘草	CALML5
+MOL000098	quercetin	甘草	PTGS1
+MOL000098	quercetin	甘草	AR
+MOL000098	quercetin	甘草	PPARG
+MOL000098	quercetin	甘草	PTGS2
+MOL000098	quercetin	甘草	HSP90AB1
+MOL000098	quercetin	甘草	PIK3CG
+MOL000098	quercetin	甘草	PNRC2
+MOL000098	quercetin	甘草	DPP4
+MOL000098	quercetin	甘草	AKR1B1
+MOL000098	quercetin	甘草	PRSS1
+MOL000098	quercetin	甘草	TOP2A
+MOL000098	quercetin	甘草	F2
+MOL000098	quercetin	甘草	KCNC2
+MOL000098	quercetin	甘草	SCNN1A
+MOL000098	quercetin	甘草	F10
+MOL000098	quercetin	甘草	ADRB2
+MOL000098	quercetin	甘草	MMP3
+MOL000098	quercetin	甘草	PRKACA
+MOL000098	quercetin	甘草	F7
+MOL000098	quercetin	甘草	NOS3
+MOL000098	quercetin	甘草	RXRA
+MOL000098	quercetin	甘草	ACHE
+MOL000098	quercetin	甘草	GABRA1
+MOL000098	quercetin	甘草	RELA
+MOL000098	quercetin	甘草	EGF
+MOL000098	quercetin	甘草	AKT1
+MOL000098	quercetin	甘草	VEGFC
+MOL000098	quercetin	甘草	CCND3
+MOL000098	quercetin	甘草	BCL2
+MOL000098	quercetin	甘草	BAK1
+MOL000098	quercetin	甘草	FOS
+MOL000098	quercetin	甘草	CDKN1C
+MOL000098	quercetin	甘草	EIF2A
+MOL000098	quercetin	甘草	BAX
+MOL000098	quercetin	甘草	CASP9
+MOL000098	quercetin	甘草	PLAU
+MOL000098	quercetin	甘草	MMP2
+MOL000098	quercetin	甘草	MMP9
+MOL000098	quercetin	甘草	MAP3K7
+MOL000098	quercetin	甘草	IL10
+MOL000098	quercetin	甘草	RBL1
+MOL000098	quercetin	甘草	TNF
+MOL000098	quercetin	甘草	JUN
+MOL000098	quercetin	甘草	IL36A
+MOL000098	quercetin	甘草	CDKN2A
+MOL000098	quercetin	甘草	AHSA1
+MOL000098	quercetin	甘草	CASP3
+MOL000098	quercetin	甘草	TP53
+MOL000098	quercetin	甘草	ELK1
+MOL000098	quercetin	甘草	NFKBIE
+MOL000098	quercetin	甘草	POR
+MOL000098	quercetin	甘草	ODC1
+MOL000098	quercetin	甘草	XDH
+MOL000098	quercetin	甘草	CASP8
+MOL000098	quercetin	甘草	TOP1
+MOL000098	quercetin	甘草	RAF1
+MOL000098	quercetin	甘草	C3
+MOL000098	quercetin	甘草	MMP1
+MOL000098	quercetin	甘草	HIF1AN
+MOL000098	quercetin	甘草	STAT4
+MOL000098	quercetin	甘草	RUNX1T1
+MOL000098	quercetin	甘草	HERC5
+MOL000098	quercetin	甘草	CDK1
+MOL000098	quercetin	甘草	HSPA5
+MOL000098	quercetin	甘草	ERBB2
+MOL000098	quercetin	甘草	ACACB
+MOL000098	quercetin	甘草	HMOX1
+MOL000098	quercetin	甘草	CYP3A4
+MOL000098	quercetin	甘草	CYP1A2
+MOL000098	quercetin	甘草	CAV1
+MOL000098	quercetin	甘草	MYC
+MOL000098	quercetin	甘草	F3
+MOL000098	quercetin	甘草	GJA1
+MOL000098	quercetin	甘草	CYP1A1
+MOL000098	quercetin	甘草	ICAM2
+MOL000098	quercetin	甘草	IL1B
+MOL000098	quercetin	甘草	CX3CR1
+MOL000098	quercetin	甘草	SELE
+MOL000098	quercetin	甘草	VCAM1
+MOL000098	quercetin	甘草	PTGER3
+MOL000098	quercetin	甘草	IL36B
+MOL000098	quercetin	甘草	PRKCB
+MOL000098	quercetin	甘草	NAIP
+MOL000098	quercetin	甘草	DUOXA1
+MOL000098	quercetin	甘草	HSPB1
+MOL000098	quercetin	甘草	TGFB1
+MOL000098	quercetin	甘草	SULT1E1
+MOL000098	quercetin	甘草	MGAM
+MOL000098	quercetin	甘草	IL2
+MOL000098	quercetin	甘草	NR1I2
+MOL000098	quercetin	甘草	CYP1B1
+MOL000098	quercetin	甘草	CCNB1
+MOL000098	quercetin	甘草	PLAT
+MOL000098	quercetin	甘草	THBD
+MOL000098	quercetin	甘草	SERPINE1
+MOL000098	quercetin	甘草	COL19A1
+MOL000098	quercetin	甘草	IFNG
+MOL000098	quercetin	甘草	ALOX5
+MOL000098	quercetin	甘草	PTEN
+MOL000098	quercetin	甘草	IL1A
+MOL000098	quercetin	甘草	MPO
+MOL000098	quercetin	甘草	NCF2
+MOL000098	quercetin	甘草	ABCG4
+MOL000098	quercetin	甘草	HAS2
+MOL000098	quercetin	甘草	GSTP1
+MOL000098	quercetin	甘草	NFE2L2
+MOL000098	quercetin	甘草	AHR
+MOL000098	quercetin	甘草	PSMD11
+MOL000098	quercetin	甘草	SLC2A2
+MOL000098	quercetin	甘草	COL3A1
+MOL000098	quercetin	甘草	TOP2B
+MOL000098	quercetin	甘草	CXCL13
+MOL000098	quercetin	甘草	DDB1
+MOL000098	quercetin	甘草	CHEK2
+MOL000098	quercetin	甘草	INSR
+MOL000098	quercetin	甘草	CLDN4
+MOL000098	quercetin	甘草	PPARA
+MOL000098	quercetin	甘草	PPARD
+MOL000098	quercetin	甘草	CRP
+MOL000098	quercetin	甘草	NFKB1
+MOL000098	quercetin	甘草	SPP1
+MOL000098	quercetin	甘草	RUNX3
+MOL000098	quercetin	甘草	RASSF3
+MOL000098	quercetin	甘草	E2F1
+MOL000098	quercetin	甘草	E2F2
+MOL000098	quercetin	甘草	ACP3
+MOL000098	quercetin	甘草	CTSD
+MOL000098	quercetin	甘草	IGFBP6
+MOL000098	quercetin	甘草	IGF2
+MOL000098	quercetin	甘草	CD40LG
+MOL000098	quercetin	甘草	IRF3
+MOL000098	quercetin	甘草	ERBB3
+MOL000098	quercetin	甘草	PON2
+MOL000098	quercetin	甘草	DIO1
+MOL000098	quercetin	甘草	PCOLCE
+MOL000098	quercetin	甘草	NPEPPS
+MOL000098	quercetin	甘草	HK2
+MOL000098	quercetin	甘草	NKX3-1
+MOL000098	quercetin	甘草	RASA1
+MOL000098	quercetin	甘草	PRXC1A
+MOL000098	quercetin	甘草	GSTM2
+MOL000358	beta-sitosterol	生姜	PGR
+MOL000358	beta-sitosterol	生姜	PNRC2
+MOL000358	beta-sitosterol	生姜	PTGS1
+MOL000358	beta-sitosterol	生姜	PTGS2
+MOL000358	beta-sitosterol	生姜	HSP90AB1
+MOL000358	beta-sitosterol	生姜	PIK3CG
+MOL000358	beta-sitosterol	生姜	KCNC2
+MOL000358	beta-sitosterol	生姜	PRKACA
+MOL000358	beta-sitosterol	生姜	DRD1
+MOL000358	beta-sitosterol	生姜	CHRM3
+MOL000358	beta-sitosterol	生姜	CHRM1
+MOL000358	beta-sitosterol	生姜	SCNN1A
+MOL000358	beta-sitosterol	生姜	GABRA2
+MOL000358	beta-sitosterol	生姜	CHRM4
+MOL000358	beta-sitosterol	生姜	PDE3A
+MOL000358	beta-sitosterol	生姜	HTR2A
+MOL000358	beta-sitosterol	生姜	GABRA5
+MOL000358	beta-sitosterol	生姜	ADRA1A
+MOL000358	beta-sitosterol	生姜	GABRA3
+MOL000358	beta-sitosterol	生姜	CHRM2
+MOL000358	beta-sitosterol	生姜	ADRA1B
+MOL000358	beta-sitosterol	生姜	ADRB2
+MOL000358	beta-sitosterol	生姜	CHRNA2
+MOL000358	beta-sitosterol	生姜	SLC6A4
+MOL000358	beta-sitosterol	生姜	OPRM1
+MOL000358	beta-sitosterol	生姜	GABRA1
+MOL000358	beta-sitosterol	生姜	CHRNA7
+MOL000358	beta-sitosterol	生姜	NOS3
+MOL000358	beta-sitosterol	生姜	BCL2
+MOL000358	beta-sitosterol	生姜	BAX
+MOL000358	beta-sitosterol	生姜	CASP9
+MOL000358	beta-sitosterol	生姜	JUN
+MOL000358	beta-sitosterol	生姜	CASP3
+MOL000358	beta-sitosterol	生姜	CASP8
+MOL000358	beta-sitosterol	生姜	C3
+MOL000358	beta-sitosterol	生姜	TGFB1
+MOL000358	beta-sitosterol	生姜	PON2
+MOL000358	beta-sitosterol	生姜	MAP4
+MOL006129	6-methylgingediacetate2	生姜	NCOA7
+MOL006129	6-methylgingediacetate2	生姜	F10
+MOL006129	6-methylgingediacetate2	生姜	PTGS2
+MOL006129	6-methylgingediacetate2	生姜	CALML5
+MOL000449	Stigmasterol	生姜	PGR
+MOL000449	Stigmasterol	生姜	NR3C2
+MOL000449	Stigmasterol	生姜	PNRC2
+MOL000449	Stigmasterol	生姜	ADH1C
+MOL000449	Stigmasterol	生姜	IGHG1
+MOL000449	Stigmasterol	生姜	RXRA
+MOL000449	Stigmasterol	生姜	NCOA7
+MOL000449	Stigmasterol	生姜	PTGS1
+MOL000449	Stigmasterol	生姜	PTGS2
+MOL000449	Stigmasterol	生姜	ADRA2A
+MOL000449	Stigmasterol	生姜	SLC6A2
+MOL000449	Stigmasterol	生姜	SLC6A3
+MOL000449	Stigmasterol	生姜	ADRB2
+MOL000449	Stigmasterol	生姜	AKR1B1
+MOL000449	Stigmasterol	生姜	PLAU
+MOL000449	Stigmasterol	生姜	LTA4H
+MOL000449	Stigmasterol	生姜	PRKACA
+MOL000449	Stigmasterol	生姜	CTRB1
+MOL000449	Stigmasterol	生姜	CHRM3
+MOL000449	Stigmasterol	生姜	CHRM1
+MOL000449	Stigmasterol	生姜	ADRB1
+MOL000449	Stigmasterol	生姜	SCNN1A
+MOL000449	Stigmasterol	生姜	HTR2A
+MOL000449	Stigmasterol	生姜	ADRA1A
+MOL000449	Stigmasterol	生姜	GABRA3
+MOL000449	Stigmasterol	生姜	CHRM2
+MOL000449	Stigmasterol	生姜	ADRA1B
+MOL000449	Stigmasterol	生姜	GABRA1
+MOL000449	Stigmasterol	生姜	CHRNA7
+MOL001771	poriferast-5-en-3beta-ol	生姜	PGR
+MOL001771	poriferast-5-en-3beta-ol	生姜	PNRC2

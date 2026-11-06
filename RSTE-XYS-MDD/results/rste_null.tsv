@@ -1,0 +1,8 @@
+herb	role	n_unique	obs_sig	null_mean	null_sd	P
+柴胡	Monarch	51	0	0.1	0.4	1.000
+当归	Minister	11	4	0.9	1.8	0.065
+白芍	Minister	16	0	0.5	1.2	1.000
+白术	Assistant	9	0	2.0	5.9	1.000
+甘草	Assistant	11	1	1.4	3.1	0.438
+薄荷	Courier	25	5	0.4	2.3	0.015
+生姜	Courier	183	47	0.1	0.4	0.005

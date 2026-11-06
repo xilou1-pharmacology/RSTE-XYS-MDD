@@ -1,0 +1,273 @@
+pathway	hits	K_genome	P_genome	FDR_genome	K_herbal	P_herbal	FDR_herbal
+ABC transporters	2	45	3.253e-01	4.113e-01	22	6.836e-01	7.946e-01
+AGE-RAGE signaling pathway in diabetic complications	25	100	2.222e-18	1.191e-16	80	1.385e-07	4.588e-06
+AMPK signaling pathway	10	120	1.056e-03	2.263e-03	68	1.611e-01	2.808e-01
+Acute myeloid leukemia	14	67	1.139e-09	8.976e-09	52	5.383e-04	2.691e-03
+Adherens junction	3	71	2.785e-01	3.641e-01	35	7.215e-01	8.034e-01
+Adipocytokine signaling pathway	11	69	1.308e-06	4.803e-06	51	1.309e-02	3.468e-02
+Adrenergic signaling in cardiomyocytes	13	150	1.295e-04	3.470e-04	50	1.220e-03	5.390e-03
+African trypanosomiasis	7	37	3.734e-05	1.100e-04	24	8.731e-03	2.461e-02
+Alanine, aspartate and glutamate metabolism	2	37	2.482e-01	3.294e-01	20	6.313e-01	7.570e-01
+Alcoholism	7	186	2.067e-01	2.812e-01	54	3.264e-01	4.626e-01
+Aldosterone synthesis and secretion	8	98	3.762e-03	7.581e-03	45	8.764e-02	1.683e-01
+Aldosterone-regulated sodium reabsorption	4	37	1.475e-02	2.566e-02	23	2.107e-01	3.468e-01
+Allograft rejection	6	38	3.858e-04	9.231e-04	17	5.418e-03	1.631e-02
+Alzheimer disease	28	369	2.475e-07	1.144e-06	138	2.439e-04	1.375e-03
+Amino sugar and nucleotide sugar metabolism	1	48	7.169e-01	7.594e-01	19	8.768e-01	9.041e-01
+Amoebiasis	14	102	3.112e-07	1.390e-06	50	3.452e-04	1.867e-03
+Amphetamine addiction	11	69	1.308e-06	4.738e-06	38	1.117e-03	5.015e-03
+Amyotrophic lateral sclerosis	15	364	5.008e-02	7.758e-02	88	3.389e-02	7.547e-02
+Antigen processing and presentation	4	78	1.429e-01	2.005e-01	20	1.462e-01	2.601e-01
+Apelin signaling pathway	12	137	2.130e-04	5.385e-04	69	4.801e-02	1.002e-01
+Apoptosis	19	142	3.419e-09	2.411e-08	99	4.982e-03	1.572e-02
+Arachidonic acid metabolism	7	61	9.359e-04	2.039e-03	34	5.556e-02	1.115e-01
+Arginine and proline metabolism	4	50	3.974e-02	6.415e-02	30	3.801e-01	5.273e-01
+Arginine biosynthesis	3	22	1.830e-02	3.163e-02	17	2.560e-01	3.968e-01
+Arrhythmogenic right ventricular cardiomyopathy	1	77	8.684e-01	8.883e-01	27	9.493e-01	9.565e-01
+Ascorbate and aldarate metabolism	1	30	5.452e-01	6.062e-01	18	8.624e-01	8.927e-01
+Asthma	4	31	7.923e-03	1.474e-02	10	1.436e-02	3.623e-02
+Autoimmune thyroid disease	4	53	4.763e-02	7.464e-02	19	1.267e-01	2.285e-01
+Autophagy	8	137	2.555e-02	4.202e-02	60	2.803e-01	4.269e-01
+Axon guidance	5	182	5.102e-01	5.769e-01	62	7.891e-01	8.398e-01
+B cell receptor signaling pathway	11	81	6.627e-06	2.166e-05	41	2.212e-03	8.028e-03
+Bacterial invasion of epithelial cells	1	77	8.684e-01	8.849e-01	21	9.013e-01	9.222e-01
+Basal cell carcinoma	4	63	7.968e-02	1.206e-01	27	3.059e-01	4.479e-01
+Base excision repair	1	33	5.797e-01	6.341e-01	15	8.082e-01	8.533e-01
+Bile secretion	8	90	2.209e-03	4.625e-03	52	1.650e-01	2.802e-01
+Biosynthesis of unsaturated fatty acids	1	27	5.078e-01	5.841e-01	6	4.826e-01	6.331e-01
+Bladder cancer	12	41	2.682e-10	2.396e-09	31	2.736e-05	3.021e-04
+Breast cancer	16	147	1.112e-06	4.258e-06	79	5.703e-03	1.698e-02
+Butanoate metabolism	1	28	5.206e-01	5.862e-01	9	6.281e-01	7.566e-01
+C-type lectin receptor signaling pathway	16	104	8.090e-09	5.288e-08	60	2.420e-04	1.394e-03
+Caffeine metabolism	2	6	9.330e-03	1.667e-02			
+Calcium signaling pathway	27	240	8.204e-11	8.795e-10	117	2.988e-05	3.168e-04
+Carbohydrate digestion and absorption	5	47	7.012e-03	1.323e-02	21	5.879e-02	1.163e-01
+Cell adhesion molecules	5	148	3.370e-01	4.201e-01	48	5.686e-01	7.108e-01
+Cell cycle	18	124	2.379e-09	1.724e-08	65	5.649e-05	5.346e-04
+Cellular senescence	26	156	1.768e-14	6.768e-13	86	1.614e-07	4.751e-06
+Central carbon metabolism in cancer	8	70	4.180e-04	9.913e-04	48	1.176e-01	2.135e-01
+Chagas disease	17	102	7.516e-10	6.104e-09	63	1.309e-04	9.379e-04
+Chemical carcinogenesis	35	239	2.290e-17	1.023e-15	132	3.995e-08	1.764e-06
+Chemokine signaling pathway	14	192	4.395e-04	1.024e-03	93	9.490e-02	1.771e-01
+Cholesterol metabolism	3	50	1.387e-01	1.957e-01	29	5.936e-01	7.215e-01
+Choline metabolism in cancer	6	98	4.119e-02	6.611e-02	45	3.229e-01	4.600e-01
+Cholinergic synapse	15	113	1.823e-07	8.722e-07	50	8.862e-05	7.339e-04
+Chronic myeloid leukemia	16	76	6.257e-11	7.986e-10	55	7.758e-05	6.853e-04
+Circadian entrainment	7	97	1.264e-02	2.229e-02	38	9.166e-02	1.723e-01
+Cocaine addiction	7	49	2.395e-04	5.943e-04	28	2.085e-02	4.978e-02
+Collecting duct acid secretion	1	27	5.078e-01	5.816e-01			
+Colorectal cancer	15	86	4.065e-09	2.793e-08	63	1.393e-03	5.953e-03
+Complement and coagulation cascades	9	85	3.278e-04	7.988e-04	33	4.937e-03	1.576e-02
+Coronavirus disease	16	232	3.247e-04	7.984e-04	86	1.315e-02	3.416e-02
+Cortisol synthesis and secretion	4	65	8.712e-02	1.312e-01	32	4.292e-01	5.774e-01
+Cushing syndrome	11	155	2.227e-03	4.626e-03	76	1.582e-01	2.776e-01
+Cysteine and methionine metabolism	1	50	7.314e-01	7.598e-01	31	9.675e-01	9.675e-01
+Cytokine-cytokine receptor interaction	14	295	2.072e-02	3.515e-02	114	2.909e-01	4.356e-01
+Cytosolic DNA-sensing pathway	5	63	2.309e-02	3.867e-02	20	4.876e-02	1.002e-01
+DNA replication	1	36	6.116e-01	6.636e-01	11	7.017e-01	8.085e-01
+Diabetic cardiomyopathy	19	203	1.117e-06	4.216e-06	86	8.798e-04	4.163e-03
+Dilated cardiomyopathy	5	96	1.028e-01	1.514e-01	35	2.954e-01	4.398e-01
+Dopaminergic synapse	12	132	1.498e-04	3.935e-04	51	4.647e-03	1.502e-02
+Drug metabolism	9	108	1.867e-03	3.941e-03	64	2.139e-01	3.477e-01
+ECM-receptor interaction	1	88	9.017e-01	9.119e-01	29	9.594e-01	9.630e-01
+Endocrine and other factor-regulated calcium reabsorption	2	53	4.003e-01	4.832e-01	13	3.978e-01	5.463e-01
+Endocytosis	3	252	9.616e-01	9.688e-01	41	8.160e-01	8.547e-01
+Endometrial cancer	13	58	1.815e-09	1.351e-08	40	1.069e-04	8.093e-04
+Epithelial cell signaling in Helicobacter pylori infection	6	70	9.248e-03	1.663e-02	36	1.634e-01	2.830e-01
+Epstein-Barr virus infection	26	202	8.827e-12	1.392e-10	99	3.368e-06	6.866e-05
+ErbB signaling pathway	13	85	2.295e-07	1.079e-06	54	2.610e-03	9.221e-03
+Estrogen signaling pathway	16	137	4.245e-07	1.673e-06	58	1.566e-04	1.064e-03
+Ether lipid metabolism	1	49	7.243e-01	7.582e-01	11	7.017e-01	8.050e-01
+Fat digestion and absorption	2	43	3.062e-01	3.945e-01	21	6.583e-01	7.787e-01
+Fatty acid biosynthesis	1	18	3.765e-01	4.565e-01	6	4.826e-01	6.300e-01
+Fatty acid degradation	2	43	3.062e-01	3.926e-01	25	7.507e-01	8.254e-01
+Fatty acid elongation	1	27	5.078e-01	5.791e-01			
+Fc epsilon RI signaling pathway	6	68	8.054e-03	1.489e-02	39	2.126e-01	3.478e-01
+Fc gamma R-mediated phagocytosis	4	97	2.424e-01	3.232e-01	38	5.682e-01	7.136e-01
+Ferroptosis	2	41	2.869e-01	3.714e-01	18	5.724e-01	7.088e-01
+Fluid shear stress and atherosclerosis	29	139	7.861e-19	7.022e-17	97	3.780e-08	2.003e-06
+Focal adhesion	16	201	6.107e-05	1.741e-04	95	3.202e-02	7.190e-02
+Folate biosynthesis	2	26	1.447e-01	2.019e-01	13	3.978e-01	5.434e-01
+FoxO signaling pathway	14	131	6.610e-06	2.187e-05	86	5.574e-02	1.111e-01
+Fructose and mannose metabolism	2	33	2.098e-01	2.840e-01	20	6.313e-01	7.535e-01
+GABAergic synapse	9	89	4.630e-04	1.070e-03	41	2.149e-02	5.084e-02
+Galactose metabolism	3	31	4.511e-02	7.153e-02	19	3.153e-01	4.517e-01
+Gap junction	10	88	8.416e-05	2.325e-04	44	1.228e-02	3.286e-02
+Gastric acid secretion	7	76	3.385e-03	6.925e-03	32	4.150e-02	8.869e-02
+Gastric cancer	17	149	2.564e-07	1.165e-06	85	5.052e-03	1.575e-02
+Glioma	14	75	5.435e-09	3.641e-08	48	2.147e-04	1.265e-03
+Glucagon signaling pathway	11	107	9.406e-05	2.572e-04	51	1.309e-02	3.433e-02
+Glutamatergic synapse	5	114	1.728e-01	2.386e-01	42	4.460e-01	5.909e-01
+Glutathione metabolism	4	57	5.940e-02	9.097e-02	30	3.801e-01	5.246e-01
+Glycerolipid metabolism	1	61	7.991e-01	8.206e-01	19	8.768e-01	9.006e-01
+Glycerophospholipid metabolism	2	98	7.258e-01	7.569e-01	20	6.313e-01	7.502e-01
+Glycolysis / Gluconeogenesis	3	67	2.504e-01	3.305e-01	37	7.566e-01	8.285e-01
+Glyoxylate and dicarboxylate metabolism	1	30	5.452e-01	6.037e-01	16	8.283e-01	8.641e-01
+GnRH secretion	5	64	2.453e-02	4.084e-02	37	3.382e-01	4.767e-01
+GnRH signaling pathway	10	93	1.346e-04	3.572e-04	48	2.236e-02	5.244e-02
+Graft-versus-host disease	5	42	4.315e-03	8.566e-03	14	1.054e-02	2.909e-02
+Growth hormone synthesis, secretion and action	9	119	3.619e-03	7.348e-03	66	2.412e-01	3.760e-01
+HIF-1 signaling pathway	15	109	1.120e-07	5.665e-07	75	8.318e-03	2.370e-02
+Hedgehog signaling pathway	3	56	1.761e-01	2.421e-01	15	1.987e-01	3.290e-01
+Hematopoietic cell lineage	5	99	1.133e-01	1.659e-01	48	5.686e-01	7.074e-01
+Hepatitis B	31	162	6.495e-19	8.703e-17	109	4.506e-08	1.706e-06
+Hepatitis C	25	157	1.728e-13	5.144e-12	85	5.175e-07	1.247e-05
+Hepatocellular carcinoma	21	168	1.743e-09	1.335e-08	90	2.081e-04	1.254e-03
+Herpes simplex virus 1 infection	18				85	2.021e-03	7.650e-03
+Hippo signaling pathway	5	163	4.145e-01	4.959e-01	60	7.640e-01	8.332e-01
+Human T-cell leukemia virus 1 infection	26	219	5.641e-11	7.559e-10	119	1.156e-04	8.507e-04
+Human cytomegalovirus infection	29	225	4.783e-13	1.282e-11	121	6.563e-06	8.696e-05
+Human immunodeficiency virus 1 infection	25	212	1.577e-10	1.509e-09	101	1.666e-05	1.920e-04
+Human papillomavirus infection	25	331	1.261e-06	4.694e-06	131	1.399e-03	5.791e-03
+Huntington disease	8	306	5.396e-01	6.025e-01	75	5.257e-01	6.697e-01
+Hypertrophic cardiomyopathy	2	90	6.813e-01	7.303e-01	37	9.106e-01	9.281e-01
+IL-17 signaling pathway	19	94	2.014e-12	4.153e-11	61	5.232e-06	9.243e-05
+Inflammatory bowel disease	12	65	7.917e-08	4.243e-07	37	2.033e-04	1.253e-03
+Inflammatory mediator regulation of TRP channels	9	98	9.382e-04	2.028e-03	53	9.152e-02	1.732e-01
+Influenza A	18	172	4.181e-07	1.673e-06	85	2.021e-03	7.543e-03
+Inositol phosphate metabolism	2	73	5.675e-01	6.233e-01	19	6.027e-01	7.292e-01
+Insulin resistance	15	108	9.885e-08	5.095e-07	70	4.230e-03	1.384e-02
+Insulin secretion	7	86	6.701e-03	1.274e-02	39	1.024e-01	1.897e-01
+Insulin signaling pathway	12	137	2.130e-04	5.335e-04	66	3.542e-02	7.758e-02
+Intestinal immune network for IgA production	5	48	7.667e-03	1.437e-02	19	3.982e-02	8.650e-02
+JAK-STAT signaling pathway	14	162	7.351e-05	2.052e-04	75	1.933e-02	4.699e-02
+Kaposi sarcoma-associated herpesvirus infection	24	193	1.236e-10	1.226e-09	108	1.633e-04	1.056e-03
+Legionellosis	11	57	1.738e-07	8.624e-07	34	3.869e-04	2.050e-03
+Leishmaniasis	19	77	4.178e-14	1.400e-12	45	1.981e-08	1.750e-06
+Leukocyte transendothelial migration	7	114	2.813e-02	4.597e-02	55	3.441e-01	4.824e-01
+Linoleic acid metabolism	3	29	3.806e-02	6.182e-02	14	1.713e-01	2.891e-01
+Lipid and atherosclerosis	43	215	6.312e-27	1.692e-24	148	2.905e-11	7.698e-09
+Long-term depression	2	60	4.626e-01	5.390e-01	28	8.051e-01	8.535e-01
+Long-term potentiation	7	67	1.637e-03	3.482e-03	37	8.163e-02	1.579e-01
+Longevity regulating pathway	12	102	1.145e-05	3.568e-05	58	1.354e-02	3.483e-02
+Lysosome	1	128	9.660e-01	9.696e-01	26	9.433e-01	9.541e-01
+MAPK signaling pathway	30	294	7.837e-11	8.751e-10	145	9.763e-05	7.840e-04
+Malaria	9	50	4.364e-06	1.481e-05	35	7.515e-03	2.165e-02
+Maturity onset diabetes of the young	1	26	4.947e-01	5.715e-01	11	7.017e-01	8.015e-01
+Measles	23	139	7.427e-13	1.809e-11	82	3.849e-06	7.286e-05
+Melanogenesis	8	101	4.524e-03	8.915e-03	45	8.764e-02	1.671e-01
+Melanoma	13	72	2.963e-08	1.805e-07	50	1.220e-03	5.301e-03
+Metabolism of xenobiotics by cytochrome P450	10	76	2.332e-05	7.021e-05	46	1.676e-02	4.151e-02
+MicroRNAs in cancer	25	310	3.700e-07	1.574e-06	147	7.139e-03	2.102e-02
+Mineral absorption	1	60	7.937e-01	8.182e-01	17	8.462e-01	8.794e-01
+Mismatch repair	1	23	4.532e-01	5.375e-01	5	4.225e-01	5.712e-01
+Mitophagy	4	68	9.887e-02	1.464e-01	27	3.059e-01	4.455e-01
+Morphine addiction	11	91	2.063e-05	6.282e-05	40	1.778e-03	6.927e-03
+NF-kappa B signaling pathway	14	104	3.976e-07	1.665e-06	59	2.081e-03	7.660e-03
+NOD-like receptor signaling pathway	13	181	8.093e-04	1.792e-03	81	7.028e-02	1.380e-01
+Natural killer cell mediated cytotoxicity	7	131	5.318e-02	8.190e-02	53	3.089e-01	4.449e-01
+Necroptosis	12	159	8.298e-04	1.823e-03	69	4.801e-02	9.940e-02
+Neomycin, kanamycin and gentamicin biosynthesis	1	5	1.229e-01	1.770e-01			
+Neuroactive ligand-receptor interaction	27	341	1.758e-07	8.564e-07	163	7.513e-03	2.188e-02
+Neurotrophin signaling pathway	15	119	3.634e-07	1.597e-06	68	3.145e-03	1.068e-02
+Neutrophil extracellular trap formation	10	189	2.471e-02	4.089e-02	73	2.204e-01	3.561e-01
+Nicotinate and nicotinamide metabolism	1	35	6.013e-01	6.550e-01	12	7.329e-01	8.126e-01
+Nicotine addiction	7	40	6.331e-05	1.786e-04	26	1.386e-02	3.532e-02
+Nitrogen metabolism	1	17	3.599e-01	4.404e-01	10	6.669e-01	7.855e-01
+Non-alcoholic fatty liver disease	21	155	3.848e-10	3.327e-09	76	1.359e-05	1.637e-04
+Non-small cell lung cancer	17	72	2.106e-12	4.031e-11	52	8.121e-06	1.025e-04
+Nucleotide excision repair	2	47	3.444e-01	4.273e-01	8	1.983e-01	3.305e-01
+Olfactory transduction	3				14	1.713e-01	2.873e-01
+Oocyte meiosis	11	129	4.916e-04	1.126e-03	35	5.135e-04	2.617e-03
+Osteoclast differentiation	17	127	2.360e-08	1.471e-07	74	1.037e-03	4.738e-03
+Ovarian steroidogenesis	11	51	5.140e-08	2.931e-07	28	5.117e-05	5.022e-04
+Oxidative phosphorylation	1	133	9.703e-01	9.703e-01	14	7.858e-01	8.465e-01
+Oxytocin signaling pathway	13	154	1.689e-04	4.310e-04	70	2.479e-02	5.711e-02
+PD-L1 expression and PD-1 checkpoint pathway in cancer	13	89	3.988e-07	1.644e-06	55	3.109e-03	1.070e-02
+PI3K-Akt signaling pathway	32	354	4.053e-10	3.394e-09	179	9.668e-04	4.495e-03
+PPAR signaling pathway	8	74	6.109e-04	1.387e-03	47	1.071e-01	1.957e-01
+Pancreatic cancer	16	76	6.257e-11	7.623e-10	61	2.982e-04	1.646e-03
+Pancreatic secretion	6	102	4.848e-02	7.554e-02	40	2.301e-01	3.695e-01
+Parathyroid hormone synthesis, secretion and action	8	106	6.051e-03	1.158e-02	61	2.962e-01	4.360e-01
+Parkinson disease	13	249	1.245e-02	2.210e-02	72	3.071e-02	6.955e-02
+Pathogenic Escherichia coli infection	18	197	3.065e-06	1.067e-05	78	6.952e-04	3.350e-03
+Pathways in cancer	64				295	2.835e-10	3.756e-08
+Pathways of neurodegeneration	33				162	5.828e-05	5.325e-04
+Pentose and glucuronate interconversions	2	34	2.194e-01	2.954e-01	16	5.071e-01	6.587e-01
+Peroxisome	3	82	3.567e-01	4.406e-01	23	4.334e-01	5.801e-01
+Pertussis	16	76	6.257e-11	7.291e-10	46	6.111e-06	8.996e-05
+Phagosome	5	152	3.576e-01	4.397e-01	47	5.491e-01	6.929e-01
+Phenylalanine metabolism	1	17	3.599e-01	4.384e-01	11	7.017e-01	7.981e-01
+Phenylalanine, tyrosine and tryptophan biosynthesis	1	6	1.456e-01	2.021e-01			
+Phosphatidylinositol signaling system	3	97	4.611e-01	5.397e-01	22	4.044e-01	5.495e-01
+Phospholipase D signaling pathway	7	148	8.902e-02	1.333e-01	61	4.510e-01	5.947e-01
+Phototransduction	1	28	5.206e-01	5.838e-01			
+Platelet activation	9	124	4.754e-03	9.300e-03	60	1.634e-01	2.794e-01
+Porphyrin and chlorophyll metabolism	2	43	3.062e-01	3.907e-01	18	5.724e-01	7.055e-01
+Primary immunodeficiency	1	38	6.315e-01	6.825e-01	15	8.082e-01	8.499e-01
+Prion disease	17	273	6.915e-04	1.544e-03	85	5.052e-03	1.557e-02
+Progesterone-mediated oocyte maturation	11	100	5.036e-05	1.451e-04	41	2.212e-03	7.920e-03
+Prolactin signaling pathway	10	70	1.109e-05	3.539e-05	48	2.236e-02	5.198e-02
+Propanoate metabolism	2	34	2.194e-01	2.940e-01	14	4.356e-01	5.801e-01
+Prostate cancer	25	97	9.923e-19	6.649e-17	74	2.360e-08	1.564e-06
+Proteasome	2	46	3.349e-01	4.194e-01	9	2.384e-01	3.738e-01
+Protein digestion and absorption	5	103	1.281e-01	1.825e-01	27	1.411e-01	2.526e-01
+Protein export	1	23	4.532e-01	5.351e-01			
+Protein processing in endoplasmic reticulum	6	171	2.818e-01	3.666e-01	40	2.301e-01	3.673e-01
+Proteoglycans in cancer	21	205	6.263e-08	3.426e-07	114	5.295e-03	1.613e-02
+Proximal tubule bicarbonate reclamation	1	23	4.532e-01	5.328e-01	14	7.858e-01	8.430e-01
+Purine metabolism	3	129	6.536e-01	7.035e-01	34	7.026e-01	7.923e-01
+Pyruvate metabolism	3	47	1.212e-01	1.756e-01	34	7.026e-01	7.889e-01
+RIG-I-like receptor signaling pathway	8	70	4.180e-04	9.826e-04	31	1.132e-02	3.060e-02
+Rap1 signaling pathway	11	210	2.028e-02	3.462e-02	103	5.105e-01	6.567e-01
+Ras signaling pathway	17	232	1.012e-04	2.740e-04	109	5.292e-02	1.079e-01
+Regulation of actin cytoskeleton	8	218	2.034e-01	2.781e-01	87	6.987e-01	8.085e-01
+Regulation of lipolysis in adipocytes	9	55	9.901e-06	3.197e-05	31	3.105e-03	1.083e-02
+Relaxin signaling pathway	17	129	2.995e-08	1.784e-07	65	1.994e-04	1.258e-03
+Renal cell carcinoma	6	69	8.636e-03	1.575e-02	40	2.301e-01	3.651e-01
+Renin secretion	6	69	8.636e-03	1.564e-02	32	1.069e-01	1.967e-01
+Retinol metabolism	6	68	8.054e-03	1.478e-02	36	1.634e-01	2.812e-01
+Retrograde endocannabinoid signaling	10	148	4.959e-03	9.562e-03	50	2.921e-02	6.673e-02
+Rheumatoid arthritis	9	93	6.409e-04	1.443e-03	48	5.438e-02	1.100e-01
+Salivary secretion	11	93	2.539e-05	7.562e-05	36	6.729e-04	3.302e-03
+Salmonella infection	22	249	4.142e-07	1.682e-06	94	1.389e-04	9.685e-04
+Serotonergic synapse	11	113	1.541e-04	4.010e-04	53	1.739e-02	4.266e-02
+Shigellosis	20	246	5.196e-06	1.741e-05	97	1.618e-03	6.496e-03
+Signaling pathways regulating pluripotency of stem cells	5	143	3.114e-01	3.955e-01	61	7.768e-01	8.437e-01
+Small cell lung cancer	19	92	1.338e-12	2.989e-11	61	5.232e-06	8.665e-05
+Sphingolipid signaling pathway	15	119	3.634e-07	1.571e-06	65	1.955e-03	7.509e-03
+Spinocerebellar ataxia	4	143	5.090e-01	5.780e-01	50	7.801e-01	8.438e-01
+Staphylococcus aureus infection	2	95	7.098e-01	7.548e-01	18	5.724e-01	7.023e-01
+Starch and sucrose metabolism	3	36	6.530e-02	9.944e-02	17	2.560e-01	3.945e-01
+Steroid biosynthesis	1	20	4.084e-01	4.908e-01	10	6.669e-01	7.820e-01
+Steroid hormone biosynthesis	10	61	3.089e-06	1.061e-05	37	3.303e-03	1.108e-02
+Synaptic vesicle cycle	3	78	3.283e-01	4.130e-01	18	2.856e-01	4.300e-01
+Systemic lupus erythematosus	6	135	1.371e-01	1.944e-01	19	9.944e-03	2.774e-02
+T cell receptor signaling pathway	18	104	1.215e-10	1.252e-09	56	5.695e-06	8.878e-05
+TGF-beta signaling pathway	5	94	9.610e-02	1.431e-01	35	2.954e-01	4.373e-01
+TNF signaling pathway	19	112	5.209e-11	7.347e-10	76	1.604e-04	1.063e-03
+Taste transduction	9	86	3.581e-04	8.646e-04	28	1.405e-03	5.728e-03
+Terpenoid backbone biosynthesis	1	22	4.387e-01	5.225e-01	7	5.365e-01	6.803e-01
+Th1 and Th2 cell differentiation	14	92	8.285e-08	4.354e-07	45	9.886e-05	7.705e-04
+Th17 cell differentiation	18	107	1.983e-10	1.832e-09	64	4.495e-05	4.581e-04
+Thermogenesis	5	232	7.227e-01	7.595e-01	58	7.368e-01	8.136e-01
+Thyroid cancer	7	37	3.734e-05	1.088e-04	25	1.108e-02	3.028e-02
+Thyroid hormone signaling pathway	13	121	1.343e-05	4.136e-05	68	1.976e-02	4.760e-02
+Thyroid hormone synthesis	5	75	4.435e-02	7.075e-02	32	2.334e-01	3.682e-01
+Tight junction	6	169	2.729e-01	3.585e-01	55	5.153e-01	6.597e-01
+Toll-like receptor signaling pathway	15	104	5.901e-08	3.295e-07	63	1.393e-03	5.859e-03
+Toxoplasmosis	20	112	5.871e-12	9.833e-11	58	4.577e-07	1.213e-05
+Transcriptional misregulation in cancer	18	192	2.117e-06	7.566e-06	84	1.753e-03	6.932e-03
+Tryptophan metabolism	4	42	2.262e-02	3.813e-02	25	2.574e-01	3.943e-01
+Tuberculosis	25	180	4.120e-12	7.361e-11	85	5.175e-07	1.143e-05
+Type I diabetes mellitus	5	43	4.782e-03	9.287e-03	19	3.982e-02	8.580e-02
+Type II diabetes mellitus	7	46	1.594e-04	4.106e-04	32	4.150e-02	8.798e-02
+Tyrosine metabolism	4	36	1.342e-02	2.350e-02	27	3.059e-01	4.430e-01
+Ubiquitin mediated proteolysis	2	140	8.820e-01	8.953e-01	23	7.075e-01	7.911e-01
+VEGF signaling pathway	10	59	2.252e-06	7.940e-06	38	4.084e-03	1.353e-02
+Valine, leucine and isoleucine degradation	1	48	7.169e-01	7.564e-01	23	9.209e-01	9.350e-01
+Vascular smooth muscle contraction	10	133	2.295e-03	4.732e-03	58	7.135e-02	1.390e-01
+Vasopressin-regulated water reabsorption	1	44	6.854e-01	7.318e-01	10	6.669e-01	7.786e-01
+Vibrio cholerae infection	1	50	7.314e-01	7.569e-01	11	7.017e-01	7.947e-01
+Viral carcinogenesis	22	203	1.054e-08	6.725e-08	91	8.234e-05	7.039e-04
+Viral myocarditis	5	60	1.908e-02	3.278e-02	28	1.581e-01	2.793e-01
+Viral protein interaction with cytokine and cytokine receptor	5	100	1.169e-01	1.703e-01	45	5.088e-01	6.577e-01
+Vitamin digestion and absorption	2	24	1.269e-01	1.819e-01	12	3.590e-01	5.007e-01
+Wnt signaling pathway	11	166	3.791e-03	7.582e-03	61	4.546e-02	9.562e-02
+Yersinia infection	14	137	1.115e-05	3.515e-05	73	1.539e-02	3.847e-02
+alpha-Linolenic acid metabolism	1	25	4.812e-01	5.583e-01	8	5.848e-01	7.142e-01
+beta-Alanine metabolism	1	30	5.452e-01	6.013e-01	14	7.858e-01	8.396e-01
+cAMP signaling pathway	20	216	6.827e-07	2.652e-06	127	3.413e-02	7.537e-02
+cGMP-PKG signaling pathway	19	167	5.123e-08	2.985e-07	81	3.937e-04	2.045e-03
+mTOR signaling pathway	8	154	4.623e-02	7.287e-02	60	2.803e-01	4.245e-01
+p53 signaling pathway	16	73	3.262e-11	4.857e-10	46	6.111e-06	8.523e-05

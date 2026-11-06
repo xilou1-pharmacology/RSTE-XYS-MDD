@@ -1,0 +1,8 @@
+herb	target	known_pharmacology	recovered	level
+甘草	HSD11B2	11β-HSD2; glycyrrhizin inhibits this enzyme causing pseudohyperaldosteronism	YES	单药独有
+甘草	CYP11B2	Aldosterone synthase	YES	单药独有
+薄荷	TRPM8	Menthol cold receptor (Courier role: mint + ginger)	YES	角色独有（薄荷+生姜）
+生姜	TRPA1	Gingerol receptor	YES	单药独有
+生姜	MAOA	Monoamine oxidase A	YES	单药独有
+生姜	MAOB	Monoamine oxidase B	YES	单药独有
+当归	Citrate cycle (TCA cycle)	TCA cycle enrichment	YES	通路富集 FDR<0.05

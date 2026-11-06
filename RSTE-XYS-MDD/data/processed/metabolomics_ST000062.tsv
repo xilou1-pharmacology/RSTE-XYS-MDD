@@ -1,0 +1,136 @@
+metabolite	log2FC	P	FDR
+Niacinamide	0.9013	3.505e-07	4.732e-05
+Aspartic acid	0.4603	6.277e-06	0.0004237
+Ketoleucine	0.9304	2.763e-05	0.001159
+Stearic acid	0.2535	3.789e-05	0.001159
+Margaric acid	0.2570	4.293e-05	0.001159
+Pyruvic acid	0.7454	8.162e-05	0.001836
+Squalene	0.6347	0.0001351	0.002606
+Behenic acid	0.3718	0.0001912	0.003227
+2-Oxoglutaric acid	0.3322	0.0005055	0.007583
+Myo-inositol	0.3298	0.0007932	0.009992
+Maltose	0.3692	0.0008142	0.009992
+Maleimide	0.3872	0.001081	0.01151
+Threonic acid	-0.6433	0.001109	0.01151
+Glutamic acid	0.5115	0.001323	0.01276
+3-Phosphoglyceric acid	0.2710	0.001427	0.01284
+L-Arabitol	0.2252	0.001576	0.0133
+Palmitic acid	0.1820	0.002014	0.01599
+Oxoproline	-0.2200	0.003167	0.02357
+Isocitric acid	0.2082	0.003318	0.02357
+Sucrose	0.8033	0.00364	0.02457
+Ribitol	0.3240	0.00399	0.02565
+Fucose	0.2413	0.004893	0.03003
+Stearyl alcohol	0.2840	0.006245	0.03666
+Pseudouridine	0.2171	0.007117	0.04003
+Glucose	0.1351	0.008096	0.04372
+cis-Aconitic acid	0.1604	0.008448	0.04387
+Erythritol	0.2232	0.0128	0.064
+Shikimic acid	0.2962	0.01333	0.06426
+trans-4-Hydroxyproline	-0.2704	0.01627	0.07576
+Aminomalonic acid	0.3177	0.01693	0.07617
+Sorbitol	0.3695	0.01866	0.08127
+Myristic acid	0.2766	0.03042	0.1283
+Malic acid	0.2190	0.03906	0.1598
+Lauric acid	0.1350	0.04261	0.1692
+2-Hydroxybutyric acid	0.2547	0.04487	0.1723
+Methionine	0.1612	0.04643	0.1723
+Mannose	0.1095	0.04723	0.1723
+Citric acid	0.1386	0.05587	0.1985
+Glutaric acid	-0.1193	0.06066	0.2063
+Lactic acid	0.2558	0.06165	0.2063
+Glycerol	0.2013	0.06266	0.2063
+Azelaic acid	0.1614	0.06473	0.2065
+Galactosylglycerol	-0.3095	0.06578	0.2065
+3-Hydroxybutyric acid	1.0127	0.06793	0.2084
+2-Hydroxyglutaric acid	0.1799	0.07239	0.2158
+Oxalic acid	0.3224	0.07355	0.2158
+AMP	0.3417	0.0771	0.2215
+D-Threonic acid	0.4897	0.08462	0.238
+Proline	-0.3456	0.08726	0.2392
+Sorbitol	0.3074	0.0886	0.2392
+Taurine	-0.3817	0.1226	0.3229
+Gluconic acid	0.2074	0.1279	0.3229
+Xylitol	0.2071	0.1279	0.3229
+Capric acid	0.1154	0.1316	0.3229
+N-Methylalanine	0.1125	0.1316	0.3229
+3,4-Dihydroxybutyric acid	0.3024	0.1372	0.3307
+MG 18:0/0:0/0:0	0.1527	0.145	0.3434
+2-Hydroxyvaleric acid	0.1567	0.1552	0.3551
+Glyceric acid	0.0520	0.1552	0.3551
+Ornithine	0.1388	0.1616	0.3576
+Ribonic acid	0.2585	0.1616	0.3576
+Uric acid	0.1473	0.1659	0.3603
+N-Acetylornithine	0.2353	0.1682	0.3603
+Cysteine	0.3456	0.1843	0.386
+Pyrophosphate	0.1633	0.1867	0.386
+Glycolic acid	0.1353	0.1891	0.386
+Mannitol	0.1841	0.1916	0.386
+Threitol	0.0345	0.199	0.3951
+N-Acetylglutamic acid	-0.0931	0.2067	0.4037
+Palmitoleic acid	0.1601	0.2093	0.4037
+Lactulose	0.0963	0.2173	0.4124
+Glutamine	0.2156	0.22	0.4124
+Cys-Gly	0.1361	0.2367	0.4377
+2,4-Diaminobutyric acid	0.2899	0.2424	0.4423
+Hippuric acid	-0.3231	0.2696	0.4853
+Conduritol epoxide	0.1292	0.2988	0.5308
+Ethanolamine	0.0156	0.33	0.5752
+Isoleucine	0.0675	0.3336	0.5752
+Oleic acid	0.3037	0.3372	0.5752
+Quinic acid	0.2599	0.3409	0.5752
+P-Cresol	0.0304	0.352	0.577
+Methionine sulfoxide	-0.1260	0.3557	0.577
+alpha-Tocopherol	-0.1247	0.3557	0.577
+Indolelactic acid	0.0735	0.3633	0.577
+Urea	0.1100	0.3633	0.577
+1,5-Anhydrosorbitol	0.0839	0.3709	0.5823
+2,3-Dihydroxypyridine	0.0689	0.3787	0.587
+Dodecanol	0.1067	0.3826	0.587
+Citrulline	0.0709	0.4026	0.6107
+Nicotinic acid	0.2332	0.4108	0.6161
+Pipecolic acid	-0.2253	0.419	0.6216
+MG 18:1(9Z)/0:0/0:0	-0.0066	0.4274	0.6271
+Cholesterol	-0.0447	0.4358	0.6327
+Valine	0.0302	0.4444	0.6382
+Cystine	-0.0670	0.4574	0.6421
+Fumaric acid	-0.0190	0.4574	0.6421
+Ribose	-0.0123	0.4662	0.6421
+Threonine	0.0109	0.4662	0.6421
+gamma-Tocopherol	-0.1198	0.475	0.6473
+Asparagine	-0.0328	0.4795	0.6473
+Hydroxylamine	0.0092	0.4885	0.653
+Indoleacetic acid	0.0477	0.5068	0.6639
+Lactamide	-0.0098	0.5114	0.6639
+N-Acetylserotonin	0.0985	0.5114	0.6639
+Creatinine	-0.2295	0.5397	0.6939
+Hypoxanthine	-0.2325	0.5541	0.7057
+3-Aminoisobutanoic acid	-0.0703	0.5736	0.7237
+MG 16:0/0:0/0:0	-0.0019	0.6288	0.786
+Glucosan	-0.0274	0.6391	0.7915
+Pelargonic acid	0.0351	0.6546	0.8008
+Sitosterol	-0.1353	0.6651	0.8008
+Leucine	0.0307	0.6651	0.8008
+sn-Glycero-3-phosphate	-0.2025	0.6703	0.8008
+Benzoic acid	0.0058	0.7022	0.8234
+Lysine	-0.0330	0.7022	0.8234
+Serine	0.0263	0.7075	0.8234
+Phosphoric acid	0.0102	0.7509	0.8552
+Phenylalanine	0.0163	0.7564	0.8552
+Glycine	0.0653	0.7619	0.8552
+Xylose	0.0595	0.7674	0.8552
+Caprylic acid	-0.0806	0.7729	0.8552
+Linoleic acid	0.0745	0.7729	0.8552
+Hexuronic acid	-0.0659	0.7839	0.8604
+Phenylethylamine	0.1634	0.8569	0.9329
+Fructose	-0.2331	0.891	0.9607
+Phosphoethanolamine	0.1614	0.8967	0.9607
+Alanine	0.0032	0.9081	0.9653
+Histidine	-0.0860	0.9195	0.9698
+beta-Alanine	0.0572	0.931	0.9743
+Succinic acid	-0.0597	0.9425	0.9787
+Tryptophan	-0.0570	0.9597	0.9874
+Tyrosine	-0.0506	0.9655	0.9874
+Arachidonic acid	0.0544	0.977	0.9885
+2-Piperidinone	0.0796	0.9885	0.9885
+Uridine	-0.0258	0.9885	0.9885
