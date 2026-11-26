@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+matplotlib-*/
+figures/F*.pdf
+figures/F*.png
+.Rhistory
+.RData
