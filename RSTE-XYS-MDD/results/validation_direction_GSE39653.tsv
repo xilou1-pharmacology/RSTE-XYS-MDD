@@ -1,0 +1,4 @@
+comparison	n	spearman_rho	P	same_direction_pct
+all_genes	16749	-0.1641	1.95e-101	44.7
+XYS_targets	217	-0.1527	0.0246	46.5
+non_targets	16532	-0.1643	NA	44.7
